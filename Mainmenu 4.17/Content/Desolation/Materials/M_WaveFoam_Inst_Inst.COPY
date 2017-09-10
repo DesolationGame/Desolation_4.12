@@ -1,0 +1,23 @@
+Begin Object Class=MaterialInstanceConstant Name="M_WaveFoam_Inst_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_5"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_5"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Assets/Materials/M_WaveFoam_Inst.M_WaveFoam_Inst'
+   ParentLightingGuid=DF6538374B5B0C4DF5BBF6AA62D279B4
+   ScalarParameterValues(0)=(ParameterName="FadeInBrightness",ParameterValue=5.060878,ExpressionGUID=28106E454FFDB458DF3207B3BB535BCB)
+   ScalarParameterValues(1)=(ParameterName="FadeInFalloff",ParameterValue=0.992878,ExpressionGUID=CB85C92C463964CAE6FED6920F2AF26F)
+   ScalarParameterValues(2)=(ParameterName="OpacityMaster",ParameterValue=0.761132,ExpressionGUID=323D8D6D4B0BE279194C9AAE955D0A16)
+   ScalarParameterValues(3)=(ParameterName="ScaleSteadyWave",ParameterValue=1.754594,ExpressionGUID=E23A8A304991AC3A94446FA4369A40A5)
+   ScalarParameterValues(4)=(ParameterName="SpeedSteadyWave",ParameterValue=0.141593,ExpressionGUID=8D17B25F4743CEF997BCE3B3B36FD9C4)
+   ScalarParameterValues(5)=(ParameterName="Scale",ParameterValue=4.081717,ExpressionGUID=10E03DD04866905B186707B1EEA3AFD4)
+   ScalarParameterValues(6)=(ParameterName="Speed",ParameterValue=0.307308,ExpressionGUID=D532CE7547C95651E3B7A790C22CE1B1)
+   ScalarParameterValues(7)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Color",ParameterValue=(R=1.000000,G=0.968259,B=0.886206,A=1.000000),ExpressionGUID=A422F8DE4D9EBF8C6EAE43919E63CD66)
+   VectorParameterValues(1)=(ParameterName="OffsetSteadyWave",ParameterValue=(R=0.354086,G=0.413793,B=0.000000,A=1.000000),ExpressionGUID=B610E4E04A63CECE558C43B0A5DB727C)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=DC6FBB874566CD733ABF1E9FE61F348E
+   ReferencedTextureGuids(1)=6B97897C491795C88F5DE1A4566475D3
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_5'
+   LightingGuid=0D7CD0E34FC57CF1326E6D8B26E1EDA5
+End Object

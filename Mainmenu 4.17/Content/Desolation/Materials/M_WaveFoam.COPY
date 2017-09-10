@@ -1,0 +1,893 @@
+Begin Object Class=Material Name="M_WaveFoam"
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_11"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_6"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_8"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_9"
+   End Object
+   Begin Object Class=MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_3"
+   End Object
+   Begin Object Class=MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_5"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_2"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_3"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_109"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_110"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_111"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_112"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_113"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_114"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_115"
+   End Object
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_1"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_2"
+   End Object
+   Begin Object Class=MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_3"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_13"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_14"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_15"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_16"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_24"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_25"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_26"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_27"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_28"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_31"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_32"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_33"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_34"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_10"
+   End Object
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_11"
+   End Object
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_12"
+   End Object
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_13"
+   End Object
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_4"
+   End Object
+   Begin Object Class=MaterialExpressionPower Name="MaterialExpressionPower_0"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_16"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_19"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_20"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_24"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_25"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_26"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_29"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8"
+   End Object
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_0"
+   End Object
+   Begin Object Class=MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_3"
+   End Object
+   Begin Object Class=MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_5"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_12"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_13"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_20"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_21"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_22"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_23"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_24"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_25"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_7"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_3"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_5"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_6"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_3')
+      B=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_8')
+      MaterialExpressionEditorX=-433
+      MaterialExpressionEditorY=-47
+      MaterialExpressionGuid=CE4A7EFE4D4EEE226A636AB4BB9D7A24
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_11"
+      A=(Expression=MaterialExpressionComponentMask'M_WaveFoam:MaterialExpressionComponentMask_1')
+      B=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_24')
+      MaterialExpressionEditorX=-4971
+      MaterialExpressionEditorY=1673
+      MaterialExpressionGuid=57678FFA4132BBB90E28F69B6343EB37
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_9')
+      MaterialExpressionEditorX=-980
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=72C222DC41A30E5461BB5298D316686E
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6"
+      A=(Expression=MaterialExpressionComponentMask'M_WaveFoam:MaterialExpressionComponentMask_0')
+      B=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_13')
+      MaterialExpressionEditorX=-3331
+      MaterialExpressionEditorY=-1583
+      MaterialExpressionGuid=EDA3227A40D15CCF4F4C0C8E88FB8A60
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_8"
+      A=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_20',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_23',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-1311
+      MaterialExpressionEditorY=-11
+      MaterialExpressionGuid=89CE99B44DD58E4DDEA6A08AFB4E906F
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_9"
+      A=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_28')
+      B=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_33')
+      MaterialExpressionEditorX=-1271
+      MaterialExpressionEditorY=520
+      MaterialExpressionGuid=EC7145A243F6120BD66AD19AA3F126C1
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_3"
+      A=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_16')
+      B=(Expression=MaterialExpressionConstant'M_WaveFoam:MaterialExpressionConstant_8')
+      MaterialExpressionEditorX=-3960
+      MaterialExpressionEditorY=-1400
+      MaterialExpressionGuid=E9847017416E2275B4F2B6A60EB8380D
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_5"
+      A=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_25')
+      B=(Expression=MaterialExpressionConstant'M_WaveFoam:MaterialExpressionConstant_10')
+      MaterialExpressionEditorX=-3595
+      MaterialExpressionEditorY=282
+      MaterialExpressionGuid=2DED149D460FD565E2DF02A1A6E26051
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_2"
+      Input=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_6')
+      MaterialExpressionEditorX=-340
+      MaterialExpressionEditorY=1180
+      MaterialExpressionGuid=C9F5F1B54379495D2338C3B96A2D19E8
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_3"
+      Input=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_5')
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=287
+      MaterialExpressionGuid=F9A94BF041008D2858D451AA74925793
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_109"
+      SizeX=2340
+      SizeY=1360
+      Text="Wave1"
+      MaterialExpressionEditorX=-4488
+      MaterialExpressionEditorY=-2096
+      MaterialExpressionGuid=A960CC3B426435A70DAE7A8CED94F547
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_110"
+      SizeX=828
+      SizeY=478
+      Text="WaveOffset"
+      MaterialExpressionEditorX=-5640
+      MaterialExpressionEditorY=1360
+      MaterialExpressionGuid=F7E77465459C026D7E8162B35F22A8CB
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_111"
+      SizeX=1340
+      SizeY=760
+      Text="Fade in"
+      MaterialExpressionEditorX=-1350
+      MaterialExpressionEditorY=1047
+      MaterialExpressionGuid=EDB87344461A49D3FF525E8DFF49EE9A
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_112"
+      SizeX=703
+      SizeY=442
+      Text="Opacity Master Control"
+      MaterialExpressionEditorX=-758
+      MaterialExpressionEditorY=225
+      MaterialExpressionGuid=CCFA7FE949DC895BFE8EA896A94EBC33
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_113"
+      SizeX=2333
+      SizeY=1252
+      Text="Wave2"
+      MaterialExpressionEditorX=-4402
+      MaterialExpressionEditorY=-140
+      MaterialExpressionGuid=19BAE98C489A1996D0787695800E444C
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_114"
+      SizeX=1477
+      SizeY=955
+      Text="Wave3"
+      MaterialExpressionEditorX=-3920
+      MaterialExpressionEditorY=2080
+      MaterialExpressionGuid=B049FCCC4B8B95CB6ED7F188B043F78B
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComment_115"
+      SizeX=375
+      SizeY=340
+      Text="Overall Color"
+      MaterialExpressionEditorX=-962
+      MaterialExpressionEditorY=-1482
+      MaterialExpressionGuid=4A78898F4F0D4F7DB54FDBB46774D344
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionVectorParameter'M_WaveFoam:MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      R=True
+      G=True
+      MaterialExpressionEditorX=-3411
+      MaterialExpressionEditorY=-1842
+      MaterialExpressionGuid=53B307C342FB28AC1CF06589BD6907A3
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_1"
+      Input=(Expression=MaterialExpressionVectorParameter'M_WaveFoam:MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      R=True
+      G=True
+      MaterialExpressionEditorX=-5351
+      MaterialExpressionEditorY=1473
+      MaterialExpressionGuid=E8CE197C4C4EAF464B95D1AEB78A3322
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      R=1.000000
+      MaterialExpressionEditorX=-3915
+      MaterialExpressionEditorY=402
+      MaterialExpressionGuid=D404BE8E475088AB6EA5C0B09149A53F
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=1.000000
+      MaterialExpressionEditorX=-4280
+      MaterialExpressionEditorY=-1280
+      MaterialExpressionGuid=9C620290463A903C3D0E15BA8CE8520E
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_2"
+      R=0.250000
+      G=1.000000
+      MaterialExpressionEditorX=-4340
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=F6EDB1B041526B4054CDB3BAE03440B7
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_3"
+      R=0.250000
+      G=0.500000
+      MaterialExpressionEditorX=-3857
+      MaterialExpressionEditorY=2802
+      MaterialExpressionGuid=43F03CE14A9093ABE0A7CC9C56A0240F
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_13',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_7',OutputIndex=2,Mask=1,MaskG=1)
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=9328456848836EFAEE4160B3537EA93B
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_13"
+      A=(Expression=MaterialExpressionTextureCoordinate'M_WaveFoam:MaterialExpressionTextureCoordinate_3')
+      B=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_14')
+      MaterialExpressionEditorX=-3560
+      MaterialExpressionEditorY=-1580
+      MaterialExpressionGuid=8E4FE040451164E4E65DBEA7B96C22DA
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_14"
+      A=(Expression=MaterialExpressionAppendVector'M_WaveFoam:MaterialExpressionAppendVector_3')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_15')
+      MaterialExpressionEditorX=-3760
+      MaterialExpressionEditorY=-1420
+      MaterialExpressionGuid=3A244E05447F398CFA910BB29AAAA5B4
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_15"
+      A=(Expression=MaterialExpressionTime'M_WaveFoam:MaterialExpressionTime_3')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_19')
+      MaterialExpressionEditorX=-3260
+      MaterialExpressionEditorY=-1060
+      MaterialExpressionGuid=3D7CB94B469E3115C8233D91DBFB3089
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_16"
+      A=(Expression=MaterialExpressionSine'M_WaveFoam:MaterialExpressionSine_0')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_20')
+      MaterialExpressionEditorX=-2960
+      MaterialExpressionEditorY=-1280
+      MaterialExpressionGuid=FD3D352B43F5C5D17B2637B8C70D173D
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionClamp'M_WaveFoam:MaterialExpressionClamp_3')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_0')
+      MaterialExpressionEditorX=-230
+      MaterialExpressionEditorY=292
+      MaterialExpressionGuid=C9B4C3CA494DF8B89E97E086D8E4928E
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_24"
+      A=(Expression=MaterialExpressionTextureCoordinate'M_WaveFoam:MaterialExpressionTextureCoordinate_5')
+      B=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_25')
+      MaterialExpressionEditorX=-3195
+      MaterialExpressionEditorY=62
+      MaterialExpressionGuid=3468576F48F65BAD6713AFAB109325A7
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_25"
+      A=(Expression=MaterialExpressionAppendVector'M_WaveFoam:MaterialExpressionAppendVector_5')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_24')
+      MaterialExpressionEditorX=-3395
+      MaterialExpressionEditorY=262
+      MaterialExpressionGuid=7C9E503D40A67869E1A162B9479AE925
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_26"
+      A=(Expression=MaterialExpressionTime'M_WaveFoam:MaterialExpressionTime_5')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_26')
+      MaterialExpressionEditorX=-3042
+      MaterialExpressionEditorY=542
+      MaterialExpressionGuid=1A4B93DF4C2E62534051CA8E02DD43E3
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_27"
+      A=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_24')
+      B=(Expression=MaterialExpressionConstant2Vector'M_WaveFoam:MaterialExpressionConstant2Vector_2')
+      MaterialExpressionEditorX=-4036
+      MaterialExpressionEditorY=717
+      MaterialExpressionGuid=190D3E9047C1CE8D43EB409B4EDE3A70
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_28"
+      A=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_21',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_22',OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=-1660
+      MaterialExpressionEditorY=600
+      MaterialExpressionGuid=39FBE9564601629C343834A9372A1B30
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_12',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_7',OutputIndex=2,Mask=1,MaskG=1)
+      MaterialExpressionEditorX=-732
+      MaterialExpressionEditorY=-397
+      MaterialExpressionGuid=53FDB06842C9BFCE834559AEE2DF291A
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_31"
+      A=(Expression=MaterialExpressionTime'M_WaveFoam:MaterialExpressionTime_6')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_29')
+      MaterialExpressionEditorX=-3457
+      MaterialExpressionEditorY=2402
+      MaterialExpressionGuid=882BE1C84D96086227D2BFBA2CFE4006
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_32"
+      A=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_11')
+      B=(Expression=MaterialExpressionConstant2Vector'M_WaveFoam:MaterialExpressionConstant2Vector_3')
+      MaterialExpressionEditorX=-3517
+      MaterialExpressionEditorY=2782
+      MaterialExpressionGuid=F62C771F4DC06EC5FBBC75B09E628B39
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_33"
+      A=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_24',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_25',OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=-2617
+      MaterialExpressionEditorY=2602
+      MaterialExpressionGuid=1999AC064A1955DCA8703F8B94A31A3C
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_34"
+      A=(Expression=MaterialExpressionVectorParameter'M_WaveFoam:MaterialExpressionVectorParameter_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_1')
+      MaterialExpressionEditorX=-218
+      MaterialExpressionEditorY=30
+      MaterialExpressionGuid=E45FDBED42A018BD7A8E3291A0792991
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_4')
+      B=(Expression=MaterialExpressionClamp'M_WaveFoam:MaterialExpressionClamp_2')
+      MaterialExpressionEditorX=-696
+      MaterialExpressionEditorY=407
+      MaterialExpressionGuid=1ACAF5BD40051CE92795DAA5A68F2B02
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionPower'M_WaveFoam:MaterialExpressionPower_0')
+      B=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_8')
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=1276
+      MaterialExpressionGuid=53589E5B4DD893D49CA442B74BA52E49
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_10"
+      Coordinate=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_24')
+      Time=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_26')
+      SpeedX=0.010000
+      SpeedY=-0.500000
+      MaterialExpressionEditorX=-2855
+      MaterialExpressionEditorY=62
+      MaterialExpressionGuid=7578A582414B7B154D542CA05647BE9B
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_11"
+      Coordinate=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_27')
+      Time=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_26')
+      SpeedX=0.010000
+      SpeedY=-0.500000
+      MaterialExpressionEditorX=-2740
+      MaterialExpressionEditorY=680
+      MaterialExpressionGuid=378E4CEB4292B14FCCB2D7897E764D31
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_12"
+      Coordinate=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_11')
+      Time=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_31')
+      SpeedX=0.010000
+      SpeedY=-0.500000
+      MaterialExpressionEditorX=-3277
+      MaterialExpressionEditorY=2162
+      MaterialExpressionGuid=738D82D043FADB1CE8925EAF62C5D648
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_13"
+      Coordinate=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_32')
+      Time=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_31')
+      SpeedX=0.010000
+      SpeedY=-0.500000
+      MaterialExpressionEditorX=-3217
+      MaterialExpressionEditorY=2762
+      MaterialExpressionGuid=47618CDC422619D999C2B0A39A34C637
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_4"
+      Coordinate=(Expression=MaterialExpressionAdd'M_WaveFoam:MaterialExpressionAdd_6')
+      Time=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_16')
+      SpeedX=0.050000
+      SpeedY=-0.500000
+      MaterialExpressionEditorX=-3060
+      MaterialExpressionEditorY=-1540
+      MaterialExpressionGuid=065D374440EF8572AA6604A8D48F696D
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionPower_0"
+      Base=(Expression=MaterialExpressionTextureSample'M_WaveFoam:MaterialExpressionTextureSample_7',OutputIndex=2,Mask=1,MaskG=1)
+      Exponent=(Expression=MaterialExpressionScalarParameter'M_WaveFoam:MaterialExpressionScalarParameter_7')
+      MaterialExpressionEditorX=-840
+      MaterialExpressionEditorY=1320
+      MaterialExpressionGuid=7285EE3F491B216A92AF81B4728285DA
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1.000000
+      ParameterName="OpacityMaster"
+      ExpressionGUID=323D8D6D4B0BE279194C9AAE955D0A16
+      Group="Global"
+      MaterialExpressionEditorX=-500
+      MaterialExpressionEditorY=520
+      MaterialExpressionGuid=B918AF1B4E4E83367F882387CFB148EF
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15"
+      DefaultValue=1.000000
+      ParameterName="ScaleSteadyWave"
+      ExpressionGUID=E23A8A304991AC3A94446FA4369A40A5
+      Group="SteadyWave"
+      MaterialExpressionEditorX=-4020
+      MaterialExpressionEditorY=-1100
+      MaterialExpressionGuid=ED960E6B43A148D990D1DFA422373CA6
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_16"
+      DefaultValue=1.000000
+      ParameterName="ScaleAspectRatio"
+      ExpressionGUID=86A2F0B14BA57DE475991A880521286A
+      Group="Wave"
+      MaterialExpressionEditorX=-4420
+      MaterialExpressionEditorY=-1440
+      MaterialExpressionGuid=7F20EDBC43BE696D5BFF5A92CC297CCF
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_19"
+      DefaultValue=1.000000
+      ParameterName="SpeedSteadyWave"
+      ExpressionGUID=8D17B25F4743CEF997BCE3B3B36FD9C4
+      Group="SteadyWave"
+      MaterialExpressionEditorX=-3680
+      MaterialExpressionEditorY=-880
+      MaterialExpressionGuid=9770ABC340FA8ECE1D124F9AAEDAC52D
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_20"
+      DefaultValue=1.000000
+      ParameterName="DistanceSteadyWave"
+      ExpressionGUID=EAD67DBD4CDD171FF19DB2ADEA211777
+      Group="SteadyWave"
+      MaterialExpressionEditorX=-3300
+      MaterialExpressionEditorY=-880
+      MaterialExpressionGuid=D6BE024D489418758D2C6E83A886FCED
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_24"
+      DefaultValue=1.000000
+      ParameterName="Scale"
+      ExpressionGUID=10E03DD04866905B186707B1EEA3AFD4
+      Group="Wave"
+      MaterialExpressionEditorX=-3633
+      MaterialExpressionEditorY=551
+      MaterialExpressionGuid=4BB174C841772844C15DD592084F9754
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_25"
+      DefaultValue=1.000000
+      ParameterName="ScaleAspectRatio"
+      ExpressionGUID=7ED7190F4067EF0353732A9BA7864B07
+      Group="Wave"
+      MaterialExpressionEditorX=-4055
+      MaterialExpressionEditorY=242
+      MaterialExpressionGuid=27CEA8FD4D810A2E2DC25590A3C10A5E
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_26"
+      DefaultValue=1.000000
+      ParameterName="Speed"
+      ExpressionGUID=D532CE7547C95651E3B7A790C22CE1B1
+      Group="Wave"
+      MaterialExpressionEditorX=-3340
+      MaterialExpressionEditorY=780
+      MaterialExpressionGuid=0DE2D1A3474F20EF71195887D24B42A7
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_29"
+      DefaultValue=1.000000
+      ParameterName="Speed"
+      ExpressionGUID=6A012E244CC6D7D8E11AD7B89A3710FD
+      Group="Wave"
+      MaterialExpressionEditorX=-3617
+      MaterialExpressionEditorY=2462
+      MaterialExpressionGuid=5B3D826E4816B840A77369B5874223A7
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7"
+      DefaultValue=3.000000
+      ParameterName="FadeInFalloff"
+      ExpressionGUID=CB85C92C463964CAE6FED6920F2AF26F
+      Group="Global"
+      MaterialExpressionEditorX=-1016
+      MaterialExpressionEditorY=1655
+      MaterialExpressionGuid=ED04EF5847B4AF23D2DDB3A693C54C36
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8"
+      DefaultValue=2.000000
+      ParameterName="FadeInBrightness"
+      ExpressionGUID=28106E454FFDB458DF3207B3BB535BCB
+      Group="Global"
+      MaterialExpressionEditorX=-820
+      MaterialExpressionEditorY=1660
+      MaterialExpressionGuid=B67D6B924F6A4096A50CB0A6CD4728C7
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionSine_0"
+      Input=(Expression=MaterialExpressionMultiply'M_WaveFoam:MaterialExpressionMultiply_15')
+      MaterialExpressionEditorX=-3320
+      MaterialExpressionEditorY=-1280
+      MaterialExpressionGuid=26E6A6864E3907AFC91A94BAA686CCB7
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_3"
+      CoordinateIndex=1
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=-1660
+      MaterialExpressionGuid=0874529C43DAAFBA1635218AF5D8D6A1
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_5"
+      CoordinateIndex=1
+      MaterialExpressionEditorX=-3875
+      MaterialExpressionEditorY=-37
+      MaterialExpressionGuid=074B511B437099635B1708A77D56A122
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_12"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_4')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_D.T_WavesFoam_D'
+      MaterialExpressionEditorX=-2380
+      MaterialExpressionEditorY=-1660
+      MaterialExpressionGuid=48038DCA4D87097585FD8B820E13DD1A
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_13"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_4')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_N.T_WavesFoam_N'
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=-1340
+      MaterialExpressionGuid=E2F728B94C5D87FF4C65A283D7BA81A9
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_20"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_10')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_D.T_WavesFoam_D'
+      MaterialExpressionEditorX=-2315
+      MaterialExpressionEditorY=-77
+      MaterialExpressionGuid=7AB8D6614300A33897A529836B34ECB1
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_21"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_10')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_N.T_WavesFoam_N'
+      MaterialExpressionEditorX=-2400
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=6D04FDF147F0B8FDBE4CE0AB35EB35C9
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_22"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_11')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_N.T_WavesFoam_N'
+      MaterialExpressionEditorX=-2300
+      MaterialExpressionEditorY=660
+      MaterialExpressionGuid=3421CCD84D2BF2AA44F2C8B24E25995A
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_23"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_12')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_D.T_WavesFoam_D'
+      MaterialExpressionEditorX=-2717
+      MaterialExpressionEditorY=2142
+      MaterialExpressionGuid=2243738341F29495601013A6D240AF5C
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_24"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_12')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_N.T_WavesFoam_N'
+      MaterialExpressionEditorX=-2957
+      MaterialExpressionEditorY=2482
+      MaterialExpressionGuid=1DD6A68E468F5C697FEC9A93DEF897B9
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_25"
+      Coordinates=(Expression=MaterialExpressionPanner'M_WaveFoam:MaterialExpressionPanner_13')
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_N.T_WavesFoam_N'
+      MaterialExpressionEditorX=-2917
+      MaterialExpressionEditorY=2762
+      MaterialExpressionGuid=D47600DC471611CC9E4A248FCA73D581
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_7"
+      Texture=Texture2D'/Game/Assets/Textures/T_WavesFoam_N.T_WavesFoam_N'
+      MaterialExpressionEditorX=-1280
+      MaterialExpressionEditorY=1300
+      MaterialExpressionGuid=01906A774B9C95A2B6CA268AE47029EA
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTime_3"
+      bOverride_Period=True
+      Period=48.000000
+      MaterialExpressionEditorX=-3640
+      MaterialExpressionEditorY=-1020
+      MaterialExpressionGuid=5ECC9FF44A61FF32E05FF69BE1A014D1
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTime_5"
+      bOverride_Period=True
+      Period=24.000000
+      MaterialExpressionEditorX=-3335
+      MaterialExpressionEditorY=582
+      MaterialExpressionGuid=E0246C314EE3A80AD38483B8FB02A3F5
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionTime_6"
+      bOverride_Period=True
+      Period=24.000000
+      MaterialExpressionEditorX=-3657
+      MaterialExpressionEditorY=2342
+      MaterialExpressionGuid=451F6D16472D5ADBF7234E8F6DD3BEF9
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      ParameterName="OffsetSteadyWave"
+      ExpressionGUID=B610E4E04A63CECE558C43B0A5DB727C
+      Group="SteadyWave"
+      MaterialExpressionEditorX=-3880
+      MaterialExpressionEditorY=-2040
+      MaterialExpressionGuid=A0C9023E4945D5AB653A938A4BC481EB
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      DefaultValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      ParameterName="Offset"
+      ExpressionGUID=15AF2A674750B53E583E3F8EA86FB085
+      Group="Wave2"
+      MaterialExpressionEditorX=-5577
+      MaterialExpressionEditorY=1422
+      MaterialExpressionGuid=504752E54871D743775EC79873D37D88
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      DefaultValue=(R=0.793103,G=0.793103,B=0.793103,A=1.000000)
+      ParameterName="Color"
+      ExpressionGUID=A422F8DE4D9EBF8C6EAE43919E63CD66
+      Group="Global"
+      MaterialExpressionEditorX=-900
+      MaterialExpressionEditorY=-1420
+      MaterialExpressionGuid=33BDC2DC45C135B2747FA7B2B5980738
+      Material=Material'M_WaveFoam'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   EmissiveColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_34')
+   Opacity=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_2')
+   BlendMode=BLEND_Translucent
+   ShadingModel=MSM_Unlit
+   bEnableSeparateTranslucency=False
+   bUsedWithStaticLighting=True
+   Expressions(0)=MaterialExpressionMultiply'MaterialExpressionMultiply_34'
+   Expressions(1)=MaterialExpressionMultiply'MaterialExpressionMultiply_2'
+   Expressions(2)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_0'
+   Expressions(3)=MaterialExpressionClamp'MaterialExpressionClamp_3'
+   Expressions(4)=MaterialExpressionMultiply'MaterialExpressionMultiply_5'
+   Expressions(5)=MaterialExpressionClamp'MaterialExpressionClamp_2'
+   Expressions(6)=MaterialExpressionMultiply'MaterialExpressionMultiply_6'
+   Expressions(7)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_8'
+   Expressions(8)=MaterialExpressionPower'MaterialExpressionPower_0'
+   Expressions(9)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_7'
+   Expressions(10)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_7'
+   Expressions(11)=MaterialExpressionAdd'MaterialExpressionAdd_4'
+   Expressions(12)=MaterialExpressionAdd'MaterialExpressionAdd_9'
+   Expressions(13)=MaterialExpressionMultiply'MaterialExpressionMultiply_33'
+   Expressions(14)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_25'
+   Expressions(15)=MaterialExpressionPanner'MaterialExpressionPanner_13'
+   Expressions(16)=MaterialExpressionMultiply'MaterialExpressionMultiply_31'
+   Expressions(17)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_29'
+   Expressions(18)=MaterialExpressionTime'MaterialExpressionTime_6'
+   Expressions(19)=MaterialExpressionMultiply'MaterialExpressionMultiply_32'
+   Expressions(20)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_3'
+   Expressions(21)=MaterialExpressionAdd'MaterialExpressionAdd_11'
+   Expressions(22)=MaterialExpressionMultiply'MaterialExpressionMultiply_24'
+   Expressions(23)=MaterialExpressionMultiply'MaterialExpressionMultiply_25'
+   Expressions(24)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_24'
+   Expressions(25)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_5'
+   Expressions(26)=MaterialExpressionConstant'MaterialExpressionConstant_10'
+   Expressions(27)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_25'
+   Expressions(28)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_5'
+   Expressions(29)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_1'
+   Expressions(30)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_1'
+   Expressions(31)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_24'
+   Expressions(32)=MaterialExpressionPanner'MaterialExpressionPanner_12'
+   Expressions(33)=MaterialExpressionMultiply'MaterialExpressionMultiply_28'
+   Expressions(34)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_22'
+   Expressions(35)=MaterialExpressionPanner'MaterialExpressionPanner_11'
+   Expressions(36)=MaterialExpressionMultiply'MaterialExpressionMultiply_26'
+   Expressions(37)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_26'
+   Expressions(38)=MaterialExpressionTime'MaterialExpressionTime_5'
+   Expressions(39)=MaterialExpressionMultiply'MaterialExpressionMultiply_27'
+   Expressions(40)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_2'
+   Expressions(41)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_21'
+   Expressions(42)=MaterialExpressionPanner'MaterialExpressionPanner_10'
+   Expressions(43)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Expressions(44)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_13'
+   Expressions(45)=MaterialExpressionPanner'MaterialExpressionPanner_4'
+   Expressions(46)=MaterialExpressionMultiply'MaterialExpressionMultiply_16'
+   Expressions(47)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_20'
+   Expressions(48)=MaterialExpressionSine'MaterialExpressionSine_0'
+   Expressions(49)=MaterialExpressionMultiply'MaterialExpressionMultiply_15'
+   Expressions(50)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_19'
+   Expressions(51)=MaterialExpressionTime'MaterialExpressionTime_3'
+   Expressions(52)=MaterialExpressionAdd'MaterialExpressionAdd_6'
+   Expressions(53)=MaterialExpressionMultiply'MaterialExpressionMultiply_13'
+   Expressions(54)=MaterialExpressionMultiply'MaterialExpressionMultiply_14'
+   Expressions(55)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_15'
+   Expressions(56)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_3'
+   Expressions(57)=MaterialExpressionConstant'MaterialExpressionConstant_8'
+   Expressions(58)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_16'
+   Expressions(59)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_3'
+   Expressions(60)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   Expressions(61)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   Expressions(62)=MaterialExpressionAdd'MaterialExpressionAdd_1'
+   Expressions(63)=MaterialExpressionAdd'MaterialExpressionAdd_8'
+   Expressions(64)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_23'
+   Expressions(65)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_20'
+   Expressions(66)=MaterialExpressionMultiply'MaterialExpressionMultiply_3'
+   Expressions(67)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_12'
+   Expressions(68)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_2'
+   EditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_109'
+   EditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_110'
+   EditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_111'
+   EditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_112'
+   EditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_113'
+   EditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_114'
+   EditorComments(6)=MaterialExpressionComment'MaterialExpressionComment_115'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=AEBDBF394D194C4522FFA08376C9DB24
+   ReferencedTextureGuids(0)=DC6FBB874566CD733ABF1E9FE61F348E
+   ReferencedTextureGuids(1)=6B97897C491795C88F5DE1A4566475D3
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=BF9896C041521C7F11920EA98EF9EF88
+End Object

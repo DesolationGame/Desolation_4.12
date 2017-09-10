@@ -1,0 +1,25 @@
+Begin Object Class=MaterialInstanceConstant Name="M_WaveFoam_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Parent=Material'/Game/Assets/Materials/M_WaveFoam.M_WaveFoam'
+   ParentLightingGuid=BF9896C041521C7F11920EA98EF9EF88
+   ScalarParameterValues(0)=(ParameterName="FadeInBrightness",ParameterValue=1.203626,ExpressionGUID=28106E454FFDB458DF3207B3BB535BCB)
+   ScalarParameterValues(1)=(ParameterName="FadeInFalloff",ParameterValue=2.926550,ExpressionGUID=CB85C92C463964CAE6FED6920F2AF26F)
+   ScalarParameterValues(2)=(ParameterName="DistanceSteadyWave",ParameterValue=0.079646,ExpressionGUID=EAD67DBD4CDD171FF19DB2ADEA211777)
+   ScalarParameterValues(3)=(ParameterName="ScaleSteadyWave",ParameterValue=0.974185,ExpressionGUID=E23A8A304991AC3A94446FA4369A40A5)
+   ScalarParameterValues(4)=(ParameterName="SpeedSteadyWave",ParameterValue=0.194690,ExpressionGUID=8D17B25F4743CEF997BCE3B3B36FD9C4)
+   ScalarParameterValues(5)=(ParameterName="Scale",ParameterValue=3.434625,ExpressionGUID=10E03DD04866905B186707B1EEA3AFD4)
+   ScalarParameterValues(6)=(ParameterName="ScaleAspectRatio",ParameterValue=-0.219103,ExpressionGUID=7ED7190F4067EF0353732A9BA7864B07)
+   ScalarParameterValues(7)=(ParameterName="Speed",ParameterValue=0.209963,ExpressionGUID=D532CE7547C95651E3B7A790C22CE1B1)
+   ScalarParameterValues(8)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Color",ParameterValue=(R=0.617480,G=0.679423,B=0.706896,A=1.000000),ExpressionGUID=A422F8DE4D9EBF8C6EAE43919E63CD66)
+   VectorParameterValues(1)=(ParameterName="OffsetSteadyWave",ParameterValue=(R=0.370000,G=0.612069,B=0.000000,A=1.000000),ExpressionGUID=B610E4E04A63CECE558C43B0A5DB727C)
+   VectorParameterValues(2)=(ParameterName="Offset",ParameterValue=(R=0.690000,G=0.612069,B=0.000000,A=1.000000),ExpressionGUID=15AF2A674750B53E583E3F8EA86FB085)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=DC6FBB874566CD733ABF1E9FE61F348E
+   ReferencedTextureGuids(1)=6B97897C491795C88F5DE1A4566475D3
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_1'
+   LightingGuid=DF6538374B5B0C4DF5BBF6AA62D279B4
+End Object

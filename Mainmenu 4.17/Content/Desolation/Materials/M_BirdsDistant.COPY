@@ -1,0 +1,213 @@
+Begin Object Class=Material Name="M_BirdsDistant"
+   Begin Object Class=MaterialExpressionCameraPositionWS Name="MaterialExpressionCameraPositionWS_1"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_1"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=MaterialExpressionDistance Name="MaterialExpressionDistance_1"
+   End Object
+   Begin Object Class=MaterialExpressionDivide Name="MaterialExpressionDivide_1"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_22"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_23"
+   End Object
+   Begin Object Class=MaterialExpressionParticleColor Name="MaterialExpressionParticleColor_0"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=MaterialExpressionSubtract Name="MaterialExpressionSubtract_1"
+   End Object
+   Begin Object Class=MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_1"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionCameraPositionWS_1"
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=1136
+      MaterialExpressionGuid=DFB31BD34C39D950ECA775B893EFDE8F
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_1"
+      Input=(Expression=MaterialExpressionDivide'M_BirdsDistant:MaterialExpressionDivide_1')
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=9EF08B0548CA493ECB6B1294E3A49D08
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=816
+      SizeY=464
+      Text="Flip book texture and opacity"
+      MaterialExpressionEditorX=-919
+      MaterialExpressionEditorY=515
+      MaterialExpressionGuid=4E6F708F456F45A0FD3C4ABB8EB0F0A5
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=592
+      SizeY=240
+      Text="Camera vector"
+      MaterialExpressionEditorX=-3147
+      MaterialExpressionEditorY=643
+      MaterialExpressionGuid=B77AEAA7469C7B8C6194E1AA4F47AD5F
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=1152
+      SizeY=384
+      Text="Increase emissive over distance to help visibility"
+      MaterialExpressionEditorX=-1030
+      MaterialExpressionEditorY=1056
+      MaterialExpressionGuid=B63F5105452CA534C2DBE98F840BCBB2
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionDistance_1"
+      A=(Expression=MaterialExpressionCameraPositionWS'M_BirdsDistant:MaterialExpressionCameraPositionWS_1')
+      B=(Expression=MaterialExpressionWorldPosition'M_BirdsDistant:MaterialExpressionWorldPosition_1')
+      MaterialExpressionEditorX=-768
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=1C773C394D5976A02B1D22AEBBCE7888
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_1"
+      A=(Expression=MaterialExpressionSubtract'M_BirdsDistant:MaterialExpressionSubtract_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_BirdsDistant:MaterialExpressionScalarParameter_3')
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=06975CA945E871666428C6A4CC9FF031
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      Alpha=(Expression=MaterialExpressionClamp'M_BirdsDistant:MaterialExpressionClamp_1')
+      ConstA=0.500000
+      ConstB=50.000000
+      MaterialExpressionEditorX=-32
+      MaterialExpressionEditorY=1136
+      MaterialExpressionGuid=3E2285094F71AEFB2F01259B99222F52
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionMultiply'M_BirdsDistant:MaterialExpressionMultiply_22')
+      B=(Expression=MaterialExpressionLinearInterpolate'M_BirdsDistant:MaterialExpressionLinearInterpolate_1')
+      MaterialExpressionEditorX=336
+      MaterialExpressionEditorY=896
+      MaterialExpressionGuid=1EF3D7DE4F8DB4A75C7C11B349CAED35
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_22"
+      A=(Expression=MaterialExpressionTextureSample'M_BirdsDistant:MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionParticleColor'M_BirdsDistant:MaterialExpressionParticleColor_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=D3857A494CA888A3DE16DD92358233D4
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_23"
+      A=(Expression=MaterialExpressionTextureSample'M_BirdsDistant:MaterialExpressionTextureSample_0',OutputIndex=4,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionParticleColor'M_BirdsDistant:MaterialExpressionParticleColor_0',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=9F64C71A4A5B68CC84F16B8BA944760A
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionParticleColor_0"
+      MaterialExpressionEditorX=-608
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=454BEE5945BB958DCA1E2890790D252D
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=20000.000000
+      ParameterName="AppearDistance"
+      ExpressionGUID=E21585BB4B0C90C22AD4A3898B91F1DB
+      MaterialExpressionEditorX=-752
+      MaterialExpressionEditorY=1312
+      MaterialExpressionGuid=57607E784DC9A8B604D71CAD9ACB819B
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      DefaultValue=15000.000000
+      ParameterName="FadeTransition"
+      ExpressionGUID=3A622F854C959F89CE5BE592F559E1A4
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=1328
+      MaterialExpressionGuid=26E63EF54C67AA7841420B82C0549E92
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_1"
+      A=(Expression=MaterialExpressionDistance'M_BirdsDistant:MaterialExpressionDistance_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_BirdsDistant:MaterialExpressionScalarParameter_2')
+      MaterialExpressionEditorX=-528
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=9B9B400846DD2FA1D09C238603B6B6EE
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1"
+      MaterialExpressionEditorX=-784
+      MaterialExpressionEditorY=602
+      MaterialExpressionGuid=09F759B449385BE8E59602A540DA944C
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'M_BirdsDistant:MaterialExpressionTextureCoordinate_1')
+      Texture=Texture2D'/Game/Assets/Textures/T_FlipbookBird_01_Lit_D.T_FlipbookBird_01_Lit_D'
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=592
+      MaterialExpressionGuid=279BDA3F46498AA7121AE8ADD9CA3FD8
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_1"
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=1232
+      MaterialExpressionGuid=9E7514124750AD9885DC609E68D6A788
+      Material=Material'M_BirdsDistant'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   EmissiveColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_1')
+   OpacityMask=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_23')
+   BlendMode=BLEND_Masked
+   ShadingModel=MSM_Unlit
+   bUsedWithParticleSprites=True
+   EditorX=656
+   EditorY=1008
+   Expressions(0)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Expressions(1)=MaterialExpressionMultiply'MaterialExpressionMultiply_23'
+   Expressions(2)=MaterialExpressionMultiply'MaterialExpressionMultiply_22'
+   Expressions(3)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   Expressions(4)=MaterialExpressionParticleColor'MaterialExpressionParticleColor_0'
+   Expressions(5)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_1'
+   Expressions(6)=MaterialExpressionCameraPositionWS'MaterialExpressionCameraPositionWS_1'
+   Expressions(7)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_1'
+   Expressions(8)=MaterialExpressionDistance'MaterialExpressionDistance_1'
+   Expressions(9)=MaterialExpressionSubtract'MaterialExpressionSubtract_1'
+   Expressions(10)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_2'
+   Expressions(11)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_3'
+   Expressions(12)=MaterialExpressionDivide'MaterialExpressionDivide_1'
+   Expressions(13)=MaterialExpressionClamp'MaterialExpressionClamp_1'
+   Expressions(14)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_1'
+   EditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_2'
+   EditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_1'
+   EditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_3'
+   bIsMasked=True
+   StateId=14DF5D64494F3B1753F38587802EFAC7
+   ReferencedTextureGuids(0)=58FBB996410130B31B51FB891F2E5D95
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=733B482F44D3492C09B103B3B889A4D7
+End Object

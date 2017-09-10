@@ -1,0 +1,1213 @@
+Begin Object Class=Material Name="M_Bird"
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_10"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_2"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_5"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_6"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_8"
+   End Object
+   Begin Object Class=MaterialExpressionCameraPositionWS Name="MaterialExpressionCameraPositionWS_2"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_0"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_2"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_5"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_6"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_7"
+   End Object
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_6"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_4"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_7"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_10"
+   End Object
+   Begin Object Class=MaterialExpressionDistance Name="MaterialExpressionDistance_2"
+   End Object
+   Begin Object Class=MaterialExpressionDivide Name="MaterialExpressionDivide_1"
+   End Object
+   Begin Object Class=MaterialExpressionDivide Name="MaterialExpressionDivide_2"
+   End Object
+   Begin Object Class=MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_0"
+   End Object
+   Begin Object Class=MaterialExpressionDynamicParameter Name="MaterialExpressionDynamicParameter_1"
+   End Object
+   Begin Object Class=MaterialExpressionDynamicParameter Name="MaterialExpressionDynamicParameter_2"
+   End Object
+   Begin Object Class=MaterialExpressionIf Name="MaterialExpressionIf_0"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_11"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_17"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_18"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_19"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_20"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_21"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_23"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_24"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_25"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_26"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_27"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_9"
+   End Object
+   Begin Object Class=MaterialExpressionParticleColor Name="MaterialExpressionParticleColor_0"
+   End Object
+   Begin Object Class=MaterialExpressionParticleDirection Name="MaterialExpressionParticleDirection_2"
+   End Object
+   Begin Object Class=MaterialExpressionParticleDirection Name="MaterialExpressionParticleDirection_3"
+   End Object
+   Begin Object Class=MaterialExpressionParticlePositionWS Name="MaterialExpressionParticlePositionWS_3"
+   End Object
+   Begin Object Class=MaterialExpressionParticlePositionWS Name="MaterialExpressionParticlePositionWS_4"
+   End Object
+   Begin Object Class=MaterialExpressionRotateAboutAxis Name="MaterialExpressionRotateAboutAxis_1"
+   End Object
+   Begin Object Class=MaterialExpressionRotateAboutAxis Name="MaterialExpressionRotateAboutAxis_2"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_10"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_12"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_13"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_14"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_16"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_6"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_9"
+   End Object
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_0"
+   End Object
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_1"
+   End Object
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_2"
+   End Object
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_3"
+   End Object
+   Begin Object Class=MaterialExpressionSubtract Name="MaterialExpressionSubtract_2"
+   End Object
+   Begin Object Class=MaterialExpressionSubtract Name="MaterialExpressionSubtract_4"
+   End Object
+   Begin Object Class=MaterialExpressionSubtract Name="MaterialExpressionSubtract_5"
+   End Object
+   Begin Object Class=MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_6"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_0"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_2"
+   End Object
+   Begin Object Class=MaterialExpressionTransform Name="MaterialExpressionTransform_6"
+   End Object
+   Begin Object Class=MaterialExpressionTransform Name="MaterialExpressionTransform_8"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_11"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_12"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_13"
+   End Object
+   Begin Object Class=MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_10"
+   End Object
+   Begin Object Class=MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_11"
+   End Object
+   Begin Object Class=MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_7"
+   End Object
+   Begin Object Class=MaterialExpressionVertexColor Name="MaterialExpressionVertexColor_8"
+   End Object
+   Begin Object Class=MaterialExpressionVertexNormalWS Name="MaterialExpressionVertexNormalWS_0"
+   End Object
+   Begin Object Class=MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_1"
+   End Object
+   Begin Object Class=MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_2"
+   End Object
+   Begin Object Class=MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_3"
+   End Object
+   Begin Object Class=MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_4"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionRotateAboutAxis'M_Bird:MaterialExpressionRotateAboutAxis_1')
+      B=(Expression=MaterialExpressionRotateAboutAxis'M_Bird:MaterialExpressionRotateAboutAxis_2')
+      MaterialExpressionEditorX=-1296
+      MaterialExpressionEditorY=912
+      MaterialExpressionGuid=F809216C49C779167DEA50900F829F91
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_6')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_3')
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=1104
+      MaterialExpressionGuid=D3EC5F9640109AE1FF3FF6925C04E1B4
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_10"
+      A=(Expression=MaterialExpressionTime'M_Bird:MaterialExpressionTime_2')
+      B=(Expression=MaterialExpressionDynamicParameter'M_Bird:MaterialExpressionDynamicParameter_1',Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-4560
+      MaterialExpressionEditorY=1376
+      MaterialExpressionGuid=9B7568724490F38BC331D284846A610C
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2"
+      A=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_6')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_27')
+      MaterialExpressionEditorX=-3712
+      MaterialExpressionEditorY=1392
+      MaterialExpressionGuid=E14358CC46F73243CF60D8AFF628BFF2
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_6')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_10')
+      MaterialExpressionEditorX=-2931
+      MaterialExpressionEditorY=428
+      MaterialExpressionGuid=DB3115FE4BD041C39BBB2F99D002851F
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_5"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_24')
+      B=(Expression=MaterialExpressionDivide'M_Bird:MaterialExpressionDivide_1')
+      MaterialExpressionEditorX=-2832
+      MaterialExpressionEditorY=2368
+      MaterialExpressionGuid=C35D3346457A372E2AC304B16BC1AD69
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_17')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_2')
+      MaterialExpressionEditorX=-784
+      MaterialExpressionEditorY=992
+      MaterialExpressionGuid=8C2DBF704118105A7102749B545C4794
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_8"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_27')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_16')
+      MaterialExpressionEditorX=-3152
+      MaterialExpressionEditorY=2256
+      MaterialExpressionGuid=99BE91514CCA984F69BF708066DC25E3
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionCameraPositionWS_2"
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=-272
+      MaterialExpressionGuid=C75F743344634D5EE53AA58AF60C3164
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0"
+      Input=(Expression=MaterialExpressionDotProduct'M_Bird:MaterialExpressionDotProduct_0')
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=672
+      MaterialExpressionGuid=59BC8E81482DF3FD4CE0B68BEA588750
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_2"
+      Input=(Expression=MaterialExpressionDivide'M_Bird:MaterialExpressionDivide_2')
+      MaterialExpressionEditorX=-1840
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=DE83C8A0442823CE9BA1C3818802EC3D
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1936
+      SizeY=672
+      Text="Flapping motion"
+      MaterialExpressionEditorX=-3906
+      MaterialExpressionEditorY=106
+      MaterialExpressionGuid=85BF46BB4F59C61F784A648F808F9F10
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=1616
+      SizeY=640
+      Text="Macro Body Wave"
+      MaterialExpressionEditorX=-3573
+      MaterialExpressionEditorY=2126
+      MaterialExpressionGuid=3859E53847D5D377C3147D834B0C531C
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=2000
+      SizeY=944
+      Text="Wing Twist"
+      MaterialExpressionEditorX=-4034
+      MaterialExpressionEditorY=990
+      MaterialExpressionGuid=1FB8A594466C5A26E56D298425FFF2DE
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=586
+      SizeY=343
+      Text="Lighting"
+      MaterialExpressionEditorX=-453
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=F8C93660460D1C5622A59FA2C904E173
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=394
+      SizeY=265
+      Text="Roughness"
+      MaterialExpressionEditorX=-896
+      MaterialExpressionEditorY=60
+      MaterialExpressionGuid=E567EC4C41B360204A2F02AB9BC75CE7
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_5"
+      SizeX=1440
+      SizeY=1168
+      Text="Base color and emissive"
+      MaterialExpressionEditorX=-1744
+      MaterialExpressionEditorY=-1680
+      MaterialExpressionGuid=82C24DBE4DC0B745EC3D6691B68CF95F
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_6"
+      SizeX=242
+      SizeY=262
+      Text="Normal"
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=7C926D554549D05672095FA5A0FA96DC
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComment_7"
+      SizeX=1152
+      SizeY=384
+      Text="Increase emissive over distance to help visibility"
+      MaterialExpressionEditorX=-2598
+      MaterialExpressionEditorY=-352
+      MaterialExpressionGuid=14106E164190A509AF301D921812AFF0
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionTransform'M_Bird:MaterialExpressionTransform_6')
+      R=True
+      MaterialExpressionEditorX=-3152
+      MaterialExpressionEditorY=2512
+      MaterialExpressionGuid=ED2DAA00422FE7ABFF0FD592CFEAC4EF
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_6"
+      Input=(Expression=MaterialExpressionTextureCoordinate'M_Bird:MaterialExpressionTextureCoordinate_6')
+      R=True
+      MaterialExpressionEditorX=-1470
+      MaterialExpressionEditorY=-1215
+      MaterialExpressionGuid=30D733F34C311CA038F738965E656EB8
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4"
+      MaterialExpressionEditorX=496
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=266D920746DC7582AAAC738AD2B5FCFA
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7"
+      MaterialExpressionEditorX=-4784
+      MaterialExpressionEditorY=1568
+      MaterialExpressionGuid=391703B54084751C571A7CA01FA84877
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=1.000000
+      MaterialExpressionEditorX=-4784
+      MaterialExpressionEditorY=1648
+      MaterialExpressionGuid=50D5F93449E0CB73CE1621924459131C
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=1328
+      MaterialExpressionGuid=38A09023483BFBA36A7E3AAD1947EC70
+      Material=Material'M_Bird'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_10"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-2434
+      MaterialExpressionEditorY=2254
+      MaterialExpressionGuid=A1593C2E46D4031D33F067BF51FE12E1
+      Material=Material'M_Bird'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionDistance_2"
+      A=(Expression=MaterialExpressionCameraPositionWS'M_Bird:MaterialExpressionCameraPositionWS_2')
+      B=(Expression=MaterialExpressionWorldPosition'M_Bird:MaterialExpressionWorldPosition_4')
+      MaterialExpressionEditorX=-2336
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=2CFF01814D5B6C39D85FBEAD2E661004
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_1"
+      A=(Expression=MaterialExpressionComponentMask'M_Bird:MaterialExpressionComponentMask_0')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_14')
+      MaterialExpressionEditorX=-3020
+      MaterialExpressionEditorY=2522
+      MaterialExpressionGuid=7A5860CE441AFAAAE76267A9B4815B43
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_2"
+      A=(Expression=MaterialExpressionSubtract'M_Bird:MaterialExpressionSubtract_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_8')
+      MaterialExpressionEditorX=-1936
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=6EED9870439F3A47F4A448A9A641AA9B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_0"
+      A=(Expression=MaterialExpressionVectorParameter'M_Bird:MaterialExpressionVectorParameter_13',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVertexNormalWS'M_Bird:MaterialExpressionVertexNormalWS_0')
+      MaterialExpressionEditorX=-176
+      MaterialExpressionEditorY=704
+      MaterialExpressionGuid=454214D44140168FEE9D15AF9EBF1E3C
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionDynamicParameter_1"
+      ParamNames(0)="Bias"
+      ParamNames(1)="Speed"
+      ParamNames(2)=()
+      ParamNames(3)=()
+      DefaultValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=-5008
+      MaterialExpressionEditorY=1376
+      MaterialExpressionGuid=9D24F2A04D959F59864CCAB0A4578A1F
+      Material=Material'M_Bird'
+      Outputs(0)=(OutputName="Bias")
+      Outputs(1)=(OutputName="Speed")
+      Outputs(2)=(OutputName="Param3")
+      Outputs(3)=(OutputName="Param4")
+   End Object
+   Begin Object Name="MaterialExpressionDynamicParameter_2"
+      ParamNames(0)="Bias"
+      ParamNames(1)="Speed"
+      ParamNames(2)=()
+      ParamNames(3)=()
+      DefaultValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      MaterialExpressionEditorX=-784
+      MaterialExpressionEditorY=1120
+      MaterialExpressionGuid=E5F1704243D3DCC3416F3EAA762EB237
+      Material=Material'M_Bird'
+      Outputs(0)=(OutputName="Bias")
+      Outputs(1)=(OutputName="Speed")
+      Outputs(2)=(OutputName="Param3")
+      Outputs(3)=(OutputName="Param4")
+   End Object
+   Begin Object Name="MaterialExpressionIf_0"
+      A=(Expression=MaterialExpressionDynamicParameter'M_Bird:MaterialExpressionDynamicParameter_1',OutputIndex=1,Mask=1,MaskG=1)
+      B=(Expression=MaterialExpressionConstant'M_Bird:MaterialExpressionConstant_7')
+      AGreaterThanB=(Expression=MaterialExpressionDynamicParameter'M_Bird:MaterialExpressionDynamicParameter_1',OutputIndex=1,Mask=1,MaskG=1)
+      AEqualsB=(Expression=MaterialExpressionConstant'M_Bird:MaterialExpressionConstant_8')
+      ALessThanB=(Expression=MaterialExpressionConstant'M_Bird:MaterialExpressionConstant_8')
+      MaterialExpressionEditorX=-4608
+      MaterialExpressionEditorY=1536
+      MaterialExpressionGuid=AC80552F4475C5070382849BFF12A3CF
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_3')
+      Alpha=(Expression=MaterialExpressionTextureSample'M_Bird:MaterialExpressionTextureSample_0',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-656
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=77FCD75249B7D795ECB668ABEF549B10
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionVectorParameter'M_Bird:MaterialExpressionVectorParameter_12',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_Bird:MaterialExpressionVectorParameter_11',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionComponentMask'M_Bird:MaterialExpressionComponentMask_6')
+      MaterialExpressionEditorX=-1310
+      MaterialExpressionEditorY=-1343
+      MaterialExpressionGuid=796EB6C54CC43A75F26004B251B3CF9C
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      Alpha=(Expression=MaterialExpressionClamp'M_Bird:MaterialExpressionClamp_2')
+      ConstA=0.500000
+      ConstB=10.000000
+      MaterialExpressionEditorX=-1616
+      MaterialExpressionEditorY=-272
+      MaterialExpressionGuid=D75483484B0EAAF0B8D335A2B769FDC0
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Vectors/MF_RotateVector_90.MF_RotateVector_90'
+      FunctionInputs(0)=(ExpressionInputId=AF12567E4630C39E2D9CA18092DFA5DD,Input=(Expression=MaterialExpressionParticleDirection'M_Bird:MaterialExpressionParticleDirection_2',InputName="Vector"))
+      FunctionOutputs(0)=(ExpressionOutputId=1BF7A519495705122AE6409091A74E35,Output=(OutputName="CW X"))
+      FunctionOutputs(1)=(ExpressionOutputId=4839073649BC16A130B5CEA9CF38FC2B,Output=(OutputName="CCW X"))
+      FunctionOutputs(2)=(ExpressionOutputId=D4554E6A4D202F24E5F544BF8D744BEB,Output=(OutputName="CW Y"))
+      FunctionOutputs(3)=(ExpressionOutputId=7C2E768D4F15CDBD7201B6A4BA29E35A,Output=(OutputName="CCW Y"))
+      FunctionOutputs(4)=(ExpressionOutputId=726501DB4A5507345710269B27717DFD,Output=(OutputName="CW Z"))
+      FunctionOutputs(5)=(ExpressionOutputId=E68693534DC839C027655586CD3AD373,Output=(OutputName="CCW Z"))
+      MaterialExpressionEditorX=-2688
+      MaterialExpressionEditorY=1056
+      MaterialExpressionGuid=CEA6982F45B532FFA73C1785B6635BA4
+      Material=Material'M_Bird'
+      Outputs(0)=(OutputName="CW X")
+      Outputs(1)=(OutputName="CCW X")
+      Outputs(2)=(OutputName="CW Y")
+      Outputs(3)=(OutputName="CCW Y")
+      Outputs(4)=(OutputName="CW Z")
+      Outputs(5)=(OutputName="CCW Z")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'M_Bird:MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_Bird:MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-1294
+      MaterialExpressionEditorY=-815
+      MaterialExpressionGuid=3330386449D8FE7A578F9A9E5E6BF1CD
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionSine'M_Bird:MaterialExpressionSine_3')
+      B=(Expression=MaterialExpressionConstant3Vector'M_Bird:MaterialExpressionConstant3Vector_0')
+      MaterialExpressionEditorX=-288
+      MaterialExpressionEditorY=1264
+      MaterialExpressionGuid=DE5539E04C1C9FF10E6E79B45ED7802D
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionLinearInterpolate'M_Bird:MaterialExpressionLinearInterpolate_1')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_0')
+      MaterialExpressionEditorX=-446
+      MaterialExpressionEditorY=-1023
+      MaterialExpressionGuid=1CD0FC8F4EB515EDC4CCBC9FC3B65D2B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11"
+      A=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_9')
+      MaterialExpressionEditorX=-3552
+      MaterialExpressionEditorY=1408
+      MaterialExpressionGuid=884DE9EF4A81F131AE0BCC815C3E9A74
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_17"
+      A=(Expression=MaterialExpressionTransform'M_Bird:MaterialExpressionTransform_8')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_26')
+      MaterialExpressionEditorX=-2098
+      MaterialExpressionEditorY=2302
+      MaterialExpressionGuid=5747BE4B458672DD6D2185862DEC21BB
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_18"
+      A=(Expression=MaterialExpressionSubtract'M_Bird:MaterialExpressionSubtract_4')
+      B=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_4')
+      MaterialExpressionEditorX=-2735
+      MaterialExpressionEditorY=428
+      MaterialExpressionGuid=32EF57B94FCEE8B6D4EDFA9128CDC53F
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_19"
+      A=(Expression=MaterialExpressionVertexColor'M_Bird:MaterialExpressionVertexColor_7',OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=2.000000
+      MaterialExpressionEditorX=-3311
+      MaterialExpressionEditorY=572
+      MaterialExpressionGuid=9306E098470202060C4F70BC50156627
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_0')
+      B=(Expression=MaterialExpressionVertexColor'M_Bird:MaterialExpressionVertexColor_10',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-1120
+      MaterialExpressionEditorY=992
+      MaterialExpressionGuid=5A5F6D29461CCE4BBB8E3A83D4B66B8B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_20"
+      A=(Expression=MaterialExpressionSubtract'M_Bird:MaterialExpressionSubtract_5')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_7')
+      MaterialExpressionEditorX=-2928
+      MaterialExpressionEditorY=1456
+      MaterialExpressionGuid=980E2CC64C187868BA109E927A6B3972
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_21"
+      A=(Expression=MaterialExpressionVertexColor'M_Bird:MaterialExpressionVertexColor_8',OutputIndex=2,Mask=1,MaskG=1)
+      ConstB=2.000000
+      MaterialExpressionEditorX=-3408
+      MaterialExpressionEditorY=1728
+      MaterialExpressionGuid=FF273C4E478B7DF2430ACEAE9DA8D0DE
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_23"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_27')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_12')
+      MaterialExpressionEditorX=-3583
+      MaterialExpressionEditorY=300
+      MaterialExpressionGuid=157F04CD4E8649A170E10A9429FD405D
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_24"
+      A=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_8')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_13')
+      MaterialExpressionEditorX=-3008
+      MaterialExpressionEditorY=2336
+      MaterialExpressionGuid=0B6D381847CEF7C2E3E8DB80B3301AAF
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_25"
+      A=(Expression=MaterialExpressionSine'M_Bird:MaterialExpressionSine_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_15')
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=885EA81C4D0A50DE3650778B7985EAD4
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_26"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_25')
+      B=(Expression=MaterialExpressionVertexColor'M_Bird:MaterialExpressionVertexColor_11',OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=-2224
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=85580EA14EE923D5345788B6650633CC
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_27"
+      A=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_10')
+      B=(Expression=MaterialExpressionIf'M_Bird:MaterialExpressionIf_0')
+      MaterialExpressionEditorX=-4368
+      MaterialExpressionEditorY=1472
+      MaterialExpressionGuid=7D4C58264E06C249770CCC9C89E719F3
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionDynamicParameter'M_Bird:MaterialExpressionDynamicParameter_2',OutputIndex=2,Mask=1,MaskB=1)
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_1')
+      MaterialExpressionEditorX=-144
+      MaterialExpressionEditorY=1184
+      MaterialExpressionGuid=8CB9A2AF4A68598895022C93E1DEBB2D
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionLinearInterpolate'M_Bird:MaterialExpressionLinearInterpolate_1')
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_0')
+      MaterialExpressionEditorX=-1038
+      MaterialExpressionEditorY=-943
+      MaterialExpressionGuid=171A62F74FDEEB16AC54B48D5EB0DD67
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionDynamicParameter'M_Bird:MaterialExpressionDynamicParameter_2',OutputIndex=3,Mask=1,MaskA=1)
+      B=(Expression=MaterialExpressionTime'M_Bird:MaterialExpressionTime_0')
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=1312
+      MaterialExpressionGuid=88E74AB2458D94CCF3B70A96A0617F4A
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionSine'M_Bird:MaterialExpressionSine_0')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_4')
+      MaterialExpressionEditorX=-3104
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=0FBCD089474C35387502AA82F01C941D
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionSine'M_Bird:MaterialExpressionSine_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_5')
+      MaterialExpressionEditorX=-3120
+      MaterialExpressionEditorY=1408
+      MaterialExpressionGuid=B6717E724A2A2A1D7DCE1BB15FC15B76
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_9')
+      B=(Expression=MaterialExpressionLinearInterpolate'M_Bird:MaterialExpressionLinearInterpolate_2')
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=-784
+      MaterialExpressionGuid=1CC60168451AD9BCAF8660B75757321B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9"
+      A=(Expression=MaterialExpressionParticleColor'M_Bird:MaterialExpressionParticleColor_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_4')
+      MaterialExpressionEditorX=-846
+      MaterialExpressionEditorY=-975
+      MaterialExpressionGuid=6E5904AC48AA1FC2E4280E8EF230CC0B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionParticleColor_0"
+      MaterialExpressionEditorX=-1550
+      MaterialExpressionEditorY=-1103
+      MaterialExpressionGuid=9C147CA44426E133E5BAD7849E3F8CE0
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionParticleDirection_2"
+      MaterialExpressionEditorX=-2864
+      MaterialExpressionEditorY=1088
+      MaterialExpressionGuid=D77BDF2D43937F89AB993E8B1AB04EA2
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionParticleDirection_3"
+      MaterialExpressionEditorX=-2512
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=FD33765A4A9940E10D6B999FC00088C9
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionParticlePositionWS_3"
+      MaterialExpressionEditorX=-2509
+      MaterialExpressionEditorY=494
+      MaterialExpressionGuid=47234ABC4C9FBE4DC39416A1B91D24A5
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionParticlePositionWS_4"
+      MaterialExpressionEditorX=-2494
+      MaterialExpressionEditorY=1362
+      MaterialExpressionGuid=4043BE6C4FABF41626544C803EDB5D05
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionRotateAboutAxis_1"
+      NormalizedRotationAxis=(Expression=MaterialExpressionParticleDirection'M_Bird:MaterialExpressionParticleDirection_3')
+      RotationAngle=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_18')
+      PivotPoint=(Expression=MaterialExpressionParticlePositionWS'M_Bird:MaterialExpressionParticlePositionWS_3')
+      Position=(Expression=MaterialExpressionWorldPosition'M_Bird:MaterialExpressionWorldPosition_1')
+      MaterialExpressionEditorX=-2208
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=E75CF6A04A96ACBDB9A2EBBC3667FF1E
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionRotateAboutAxis_2"
+      NormalizedRotationAxis=(Expression=MaterialExpressionMaterialFunctionCall'M_Bird:MaterialExpressionMaterialFunctionCall_2',OutputIndex=5)
+      RotationAngle=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_20')
+      PivotPoint=(Expression=MaterialExpressionParticlePositionWS'M_Bird:MaterialExpressionParticlePositionWS_4')
+      Position=(Expression=MaterialExpressionWorldPosition'M_Bird:MaterialExpressionWorldPosition_2')
+      MaterialExpressionEditorX=-2256
+      MaterialExpressionEditorY=1232
+      MaterialExpressionGuid=5BC8CF7E4898E1EB9F5ECC93D4BF3BF6
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_10"
+      ParameterName="Rotation Angle Bias"
+      ExpressionGUID=6B80D03444DD2795D9AF1B9F8059018F
+      MaterialExpressionEditorX=-3119
+      MaterialExpressionEditorY=476
+      MaterialExpressionGuid=25ADFEC7442F622273EFE089DDBCC006
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_12"
+      DefaultValue=1.000000
+      ParameterName="Speed"
+      ExpressionGUID=35A762C946D20605EEFC89ACC71FE0D2
+      MaterialExpressionEditorX=-3805
+      MaterialExpressionEditorY=350
+      MaterialExpressionGuid=C16A0AC54527AA11F1BB21B6421A2141
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_13"
+      DefaultValue=1.000000
+      ParameterName="Speed"
+      ExpressionGUID=B65161594507B5D13812EE86BF8D7DBD
+      MaterialExpressionEditorX=-3184
+      MaterialExpressionEditorY=2368
+      MaterialExpressionGuid=C90B63B04D48A472508E85899B3BFEBF
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_14"
+      DefaultValue=128.000000
+      ParameterName="Macro Wave Frequency"
+      ExpressionGUID=3D6BE9F241526958B2B8068B23B249E0
+      MaterialExpressionEditorX=-3216
+      MaterialExpressionEditorY=2608
+      MaterialExpressionGuid=D5569BEC41AFF6176BA7CBB46BB4BFE7
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15"
+      DefaultValue=1.000000
+      ParameterName="Macro Wave scale"
+      ExpressionGUID=EDD0B9E54B3300A4C4FD2B9EA68B71B3
+      MaterialExpressionEditorX=-2736
+      MaterialExpressionEditorY=2528
+      MaterialExpressionGuid=BEF7E7DC43F4C04CE6C7CAB77CDF37B2
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_16"
+      ParameterName="Macro Time Bias"
+      ExpressionGUID=37FC6A334E2859FF562A5881FDA05D50
+      MaterialExpressionEditorX=-3360
+      MaterialExpressionEditorY=2303
+      MaterialExpressionGuid=B0AA6B50489C949D851484917FF56CA8
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=1.000000
+      ParameterName="RoughnessHigh"
+      ExpressionGUID=D3B4F9A546BEC59100C5EA912C4D0E6A
+      MaterialExpressionEditorX=-840
+      MaterialExpressionEditorY=110
+      MaterialExpressionGuid=DEA48B6A4C0889B6079EAAAF5D0E24E8
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      ParameterName="RoughnessLOW"
+      ExpressionGUID=EAC1926449E250FE9DE24A9022E31484
+      MaterialExpressionEditorX=-848
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=1924F56841F37C3C922B9A812208C57B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4"
+      ParameterName="Rotate Amount"
+      ExpressionGUID=11876A7B44419D8C151486A212FB59D9
+      MaterialExpressionEditorX=-3348
+      MaterialExpressionEditorY=437
+      MaterialExpressionGuid=A14CA3E846A677A0215EDDB4F9434064
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5"
+      ParameterName="Forward rotate Amount"
+      ExpressionGUID=29DFA68342EDB544ADE0078E05BF23CB
+      MaterialExpressionEditorX=-3488
+      MaterialExpressionEditorY=1584
+      MaterialExpressionGuid=AB43E47B4F406DFFEF27D9A17D3E466B
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_6"
+      ParameterName="Forward Rotate Delay"
+      ExpressionGUID=57B09977409B5511D542E0AEBBC9C56E
+      MaterialExpressionEditorX=-3904
+      MaterialExpressionEditorY=1280
+      MaterialExpressionGuid=1CFE52A043F4F0EA8FFB4EB159385818
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7"
+      DefaultValue=2000.000000
+      ParameterName="AppearDistance"
+      ExpressionGUID=4DCF77BF4E2A48EB138EE589FFE32796
+      MaterialExpressionEditorX=-2320
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=57D9114E44EE26B92BE2CFAA26BFC8F6
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8"
+      DefaultValue=10000.000000
+      ParameterName="FadeTransition"
+      ExpressionGUID=8C81AA3B4BBEAFEE4AD1109FD2534041
+      MaterialExpressionEditorX=-2112
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=ECBCA73C46B07E5E8A3F9282BBF5A9E6
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_9"
+      DefaultValue=1.000000
+      ParameterName="Speed"
+      ExpressionGUID=F6ABA9AE4F381FF4E1F9D38FD1A961B6
+      MaterialExpressionEditorX=-3936
+      MaterialExpressionEditorY=1488
+      MaterialExpressionGuid=3A9AF29846FDB1D7719F8482D815CABE
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSine_0"
+      Input=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_23')
+      MaterialExpressionEditorX=-3359
+      MaterialExpressionEditorY=300
+      MaterialExpressionGuid=6FE69CAE4E07416068053598833E4081
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSine_1"
+      Input=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_11')
+      MaterialExpressionEditorX=-3401
+      MaterialExpressionEditorY=1447
+      MaterialExpressionGuid=DB3CD61044DA450053BF90BBE140DB18
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSine_2"
+      Input=(Expression=MaterialExpressionAdd'M_Bird:MaterialExpressionAdd_5')
+      MaterialExpressionEditorX=-2672
+      MaterialExpressionEditorY=2352
+      MaterialExpressionGuid=3E62E6314991C0CB93E953A95FB99798
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSine_3"
+      Input=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_5')
+      Period=3.000000
+      MaterialExpressionEditorX=-385
+      MaterialExpressionEditorY=1244
+      MaterialExpressionGuid=44CCC2404C8EA992E70E78BA5E2BC47F
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_2"
+      A=(Expression=MaterialExpressionDistance'M_Bird:MaterialExpressionDistance_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_Bird:MaterialExpressionScalarParameter_7')
+      MaterialExpressionEditorX=-2096
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=2CF481E74B1F49A08A092198027EC4C9
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_4"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_19')
+      MaterialExpressionEditorX=-3167
+      MaterialExpressionEditorY=572
+      MaterialExpressionGuid=76EA47394382394D71E7BC8EF24BA9BE
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_5"
+      A=(Expression=MaterialExpressionMultiply'M_Bird:MaterialExpressionMultiply_21')
+      MaterialExpressionEditorX=-3216
+      MaterialExpressionEditorY=1760
+      MaterialExpressionGuid=5AC4ED7746433C289922CBA832AA4BB1
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_6"
+      CoordinateIndex=1
+      MaterialExpressionEditorX=-1598
+      MaterialExpressionEditorY=-1215
+      MaterialExpressionGuid=3CB511C84E431D43793590A70CEFAF87
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/Assets/Textures/T_Bird_D.T_Bird_D'
+      MaterialExpressionEditorX=-1550
+      MaterialExpressionEditorY=-911
+      MaterialExpressionGuid=FE41442E435A54D6E13A90BD6B9B7082
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'/Game/Assets/Textures/T_Bird_N.T_Bird_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-192
+      MaterialExpressionEditorY=272
+      MaterialExpressionGuid=CD0D6BD3427A8DFD0206A2B13008297D
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTime_0"
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=1360
+      MaterialExpressionGuid=A2E5F9E14FABCE7CBE9CF882DB107A82
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTime_2"
+      MaterialExpressionEditorX=-4768
+      MaterialExpressionEditorY=1344
+      MaterialExpressionGuid=9B00707841550E9E6CBCF38EB0915915
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTransform_6"
+      Input=(Expression=MaterialExpressionWorldPosition'M_Bird:MaterialExpressionWorldPosition_3')
+      TransformSourceType=TRANSFORMSOURCE_World
+      TransformType=TRANSFORM_Local
+      MaterialExpressionEditorX=-3330
+      MaterialExpressionEditorY=2494
+      MaterialExpressionGuid=B5BD90E241A947A9C8506BBC7C48C77E
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionTransform_8"
+      Input=(Expression=MaterialExpressionConstant3Vector'M_Bird:MaterialExpressionConstant3Vector_10')
+      TransformSourceType=TRANSFORMSOURCE_Local
+      MaterialExpressionEditorX=-2290
+      MaterialExpressionEditorY=2254
+      MaterialExpressionGuid=6B94804C4D567970B8797693B9BB3A87
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+      ParameterName="Color"
+      ExpressionGUID=DECE90CD447927FE66320D96E33204CF
+      MaterialExpressionEditorX=-1550
+      MaterialExpressionEditorY=-735
+      MaterialExpressionGuid=597B4DB3463BA9AA75C234B61649F106
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_11"
+      DefaultValue=(R=0.515000,G=0.515000,B=0.515000,A=1.000000)
+      ParameterName="Color1"
+      ExpressionGUID=72DF8A2440D596DB4444189380F72269
+      MaterialExpressionEditorX=-1678
+      MaterialExpressionEditorY=-1439
+      MaterialExpressionGuid=C631CD4C4888B2495E9C9293E2A4423A
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_12"
+      DefaultValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      ParameterName="Color2"
+      ExpressionGUID=D60E484F4D4FF6E94CF2DA95AA3A7B17
+      MaterialExpressionEditorX=-1614
+      MaterialExpressionEditorY=-1631
+      MaterialExpressionGuid=C2218EA54379E3F167262CB27B754DB8
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_13"
+      DefaultValue=(R=0.000000,G=0.000000,B=1.000000,A=1.000000)
+      ParameterName="LightVector"
+      ExpressionGUID=72AD22C4421A97EC407921B2F47049A5
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=36E05A9340F6DF4BDF1C9180925DC585
+      Material=Material'M_Bird'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_10"
+      MaterialExpressionEditorX=-1328
+      MaterialExpressionEditorY=1040
+      MaterialExpressionGuid=E343E59B43F29C103DE2B5B4E60B2007
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_11"
+      MaterialExpressionEditorX=-2448
+      MaterialExpressionEditorY=2512
+      MaterialExpressionGuid=4757CB4843D507506D737E8DB75F2B5F
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_7"
+      MaterialExpressionEditorX=-3551
+      MaterialExpressionEditorY=524
+      MaterialExpressionGuid=2C430591491FE62B015B3B9D676F22C9
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVertexColor_8"
+      MaterialExpressionEditorX=-3680
+      MaterialExpressionEditorY=1696
+      MaterialExpressionGuid=2C1B62B140890B5012F13ABFEBEDF249
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionVertexNormalWS_0"
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=752
+      MaterialExpressionGuid=4547742342CDFBE4E93BD9B1D87BCE75
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_1"
+      MaterialExpressionEditorX=-2543
+      MaterialExpressionEditorY=588
+      MaterialExpressionGuid=C9474A554F6FD7EDB8E079AE71DA2E31
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_2"
+      MaterialExpressionEditorX=-2544
+      MaterialExpressionEditorY=1456
+      MaterialExpressionGuid=CE1DDE8A408239F8307840BD51DEA9BD
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_3"
+      MaterialExpressionEditorX=-3538
+      MaterialExpressionEditorY=2494
+      MaterialExpressionGuid=C6D7F7BD47F03A8B5C37EAAA4C2164F1
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_4"
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=-176
+      MaterialExpressionGuid=37460B354626B24C84260F9822B86FB7
+      Material=Material'M_Bird'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_10')
+   Specular=(Expression=MaterialExpressionConstant'MaterialExpressionConstant_4')
+   Roughness=(Expression=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0')
+   Normal=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   EmissiveColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_8')
+   WorldPositionOffset=(Expression=MaterialExpressionAdd'MaterialExpressionAdd_1')
+   CustomizedUVs(1)=(Expression=MaterialExpressionClamp'MaterialExpressionClamp_0')
+   NumCustomizedUVs=2
+   bTangentSpaceNormal=False
+   bUsedWithMeshParticles=True
+   bUsedWithStaticLighting=True
+   bFullyRough=True
+   EditorX=608
+   Expressions(0)=MaterialExpressionMultiply'MaterialExpressionMultiply_10'
+   Expressions(1)=MaterialExpressionConstant'MaterialExpressionConstant_4'
+   Expressions(2)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0'
+   Expressions(3)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1'
+   Expressions(4)=MaterialExpressionMultiply'MaterialExpressionMultiply_8'
+   Expressions(5)=MaterialExpressionAdd'MaterialExpressionAdd_1'
+   Expressions(6)=MaterialExpressionClamp'MaterialExpressionClamp_0'
+   Expressions(7)=MaterialExpressionMultiply'MaterialExpressionMultiply_9'
+   Expressions(8)=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   Expressions(9)=MaterialExpressionAdd'MaterialExpressionAdd_6'
+   Expressions(10)=MaterialExpressionRotateAboutAxis'MaterialExpressionRotateAboutAxis_1'
+   Expressions(11)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   Expressions(12)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   Expressions(13)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_2'
+   Expressions(14)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_3'
+   Expressions(15)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_1'
+   Expressions(16)=MaterialExpressionSine'MaterialExpressionSine_0'
+   Expressions(17)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_12'
+   Expressions(18)=MaterialExpressionMultiply'MaterialExpressionMultiply_6'
+   Expressions(19)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_4'
+   Expressions(20)=MaterialExpressionMultiply'MaterialExpressionMultiply_2'
+   Expressions(21)=MaterialExpressionVertexColor'MaterialExpressionVertexColor_10'
+   Expressions(22)=MaterialExpressionVertexColor'MaterialExpressionVertexColor_7'
+   Expressions(23)=MaterialExpressionMultiply'MaterialExpressionMultiply_19'
+   Expressions(24)=MaterialExpressionSubtract'MaterialExpressionSubtract_4'
+   Expressions(25)=MaterialExpressionMultiply'MaterialExpressionMultiply_18'
+   Expressions(26)=MaterialExpressionRotateAboutAxis'MaterialExpressionRotateAboutAxis_2'
+   Expressions(27)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_2'
+   Expressions(28)=MaterialExpressionMultiply'MaterialExpressionMultiply_7'
+   Expressions(29)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_5'
+   Expressions(30)=MaterialExpressionAdd'MaterialExpressionAdd_0'
+   Expressions(31)=MaterialExpressionMultiply'MaterialExpressionMultiply_23'
+   Expressions(32)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_6'
+   Expressions(33)=MaterialExpressionTime'MaterialExpressionTime_2'
+   Expressions(34)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_9'
+   Expressions(35)=MaterialExpressionMultiply'MaterialExpressionMultiply_11'
+   Expressions(36)=MaterialExpressionAdd'MaterialExpressionAdd_2'
+   Expressions(37)=MaterialExpressionSine'MaterialExpressionSine_1'
+   Expressions(38)=MaterialExpressionAdd'MaterialExpressionAdd_4'
+   Expressions(39)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_10'
+   Expressions(40)=MaterialExpressionMultiply'MaterialExpressionMultiply_20'
+   Expressions(41)=MaterialExpressionVertexColor'MaterialExpressionVertexColor_8'
+   Expressions(42)=MaterialExpressionMultiply'MaterialExpressionMultiply_21'
+   Expressions(43)=MaterialExpressionSubtract'MaterialExpressionSubtract_5'
+   Expressions(44)=MaterialExpressionSine'MaterialExpressionSine_2'
+   Expressions(45)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_13'
+   Expressions(46)=MaterialExpressionMultiply'MaterialExpressionMultiply_24'
+   Expressions(47)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_3'
+   Expressions(48)=MaterialExpressionTransform'MaterialExpressionTransform_6'
+   Expressions(49)=MaterialExpressionAdd'MaterialExpressionAdd_5'
+   Expressions(50)=MaterialExpressionDivide'MaterialExpressionDivide_1'
+   Expressions(51)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_14'
+   Expressions(52)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   Expressions(53)=MaterialExpressionMultiply'MaterialExpressionMultiply_25'
+   Expressions(54)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_15'
+   Expressions(55)=MaterialExpressionAdd'MaterialExpressionAdd_8'
+   Expressions(56)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_16'
+   Expressions(57)=MaterialExpressionMultiply'MaterialExpressionMultiply_26'
+   Expressions(58)=MaterialExpressionVertexColor'MaterialExpressionVertexColor_11'
+   Expressions(59)=MaterialExpressionDynamicParameter'MaterialExpressionDynamicParameter_1'
+   Expressions(60)=MaterialExpressionAdd'MaterialExpressionAdd_10'
+   Expressions(61)=MaterialExpressionMultiply'MaterialExpressionMultiply_27'
+   Expressions(62)=MaterialExpressionIf'MaterialExpressionIf_0'
+   Expressions(63)=MaterialExpressionConstant'MaterialExpressionConstant_7'
+   Expressions(64)=MaterialExpressionConstant'MaterialExpressionConstant_8'
+   Expressions(65)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Expressions(66)=MaterialExpressionSine'MaterialExpressionSine_3'
+   Expressions(67)=MaterialExpressionTime'MaterialExpressionTime_0'
+   Expressions(68)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_0'
+   Expressions(69)=MaterialExpressionMultiply'MaterialExpressionMultiply_3'
+   Expressions(70)=MaterialExpressionDynamicParameter'MaterialExpressionDynamicParameter_2'
+   Expressions(71)=MaterialExpressionMultiply'MaterialExpressionMultiply_5'
+   Expressions(72)=MaterialExpressionParticleColor'MaterialExpressionParticleColor_0'
+   Expressions(73)=MaterialExpressionMultiply'MaterialExpressionMultiply_17'
+   Expressions(74)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_10'
+   Expressions(75)=MaterialExpressionTransform'MaterialExpressionTransform_8'
+   Expressions(76)=MaterialExpressionMultiply'MaterialExpressionMultiply_4'
+   Expressions(77)=MaterialExpressionDotProduct'MaterialExpressionDotProduct_0'
+   Expressions(78)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_1'
+   Expressions(79)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_11'
+   Expressions(80)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_12'
+   Expressions(81)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_13'
+   Expressions(82)=MaterialExpressionVertexNormalWS'MaterialExpressionVertexNormalWS_0'
+   Expressions(83)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_6'
+   Expressions(84)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_6'
+   Expressions(85)=MaterialExpressionCameraPositionWS'MaterialExpressionCameraPositionWS_2'
+   Expressions(86)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_4'
+   Expressions(87)=MaterialExpressionDistance'MaterialExpressionDistance_2'
+   Expressions(88)=MaterialExpressionSubtract'MaterialExpressionSubtract_2'
+   Expressions(89)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_7'
+   Expressions(90)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_8'
+   Expressions(91)=MaterialExpressionDivide'MaterialExpressionDivide_2'
+   Expressions(92)=MaterialExpressionClamp'MaterialExpressionClamp_2'
+   Expressions(93)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_2'
+   Expressions(94)=MaterialExpressionParticlePositionWS'MaterialExpressionParticlePositionWS_3'
+   Expressions(95)=MaterialExpressionParticlePositionWS'MaterialExpressionParticlePositionWS_4'
+   Expressions(96)=MaterialExpressionParticleDirection'MaterialExpressionParticleDirection_2'
+   Expressions(97)=MaterialExpressionParticleDirection'MaterialExpressionParticleDirection_3'
+   Expressions(98)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_2'
+   EditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_0'
+   EditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_1'
+   EditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_2'
+   EditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_3'
+   EditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_4'
+   EditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_5'
+   EditorComments(6)=MaterialExpressionComment'MaterialExpressionComment_6'
+   EditorComments(7)=MaterialExpressionComment'MaterialExpressionComment_7'
+   MaterialFunctionInfos(0)=(StateId=AF82504E49827BDC36C6AEA244D96180,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Vectors/MF_RotateVector_90.MF_RotateVector_90')
+   StateId=DBEE7E744B6D5B43ED6B56A411D2C120
+   ReferencedTextureGuids(0)=EB559D9F4D308DF478DAF2A6D6DA13BB
+   ReferencedTextureGuids(1)=32FBD9E847C2168B1239AF8014500FA3
+   PreviewMesh=/Game/Assets/Meshes/SM_Zen_Bird_MP.SM_Zen_Bird_MP
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=AF60FF8A49D91C792D574A9EEDD7E2AA
+End Object

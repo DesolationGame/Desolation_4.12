@@ -1,0 +1,991 @@
+Begin Object Class=Blueprint Name="BP_Birds"
+   Begin Object Class=SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Class=EdGraph Name="UserConstructionScript"
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_6856"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2562"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2561"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2560"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_6854"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2549"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2548"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2547"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2546"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2545"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_556"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2396"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2395"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_6704"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2534"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2533"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2532"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2531"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2530"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_755"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2375"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2374"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_753"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2369"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2368"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_54680"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2519"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2518"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2517"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2516"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2515"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CommutativeAssociativeBinaryOperator Name="K2Node_CommutativeAssociativeBinaryOperator_954"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2506"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2505"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2504"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2503"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_41127"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2494"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2493"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2492"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2491"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_802"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2324"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2323"
+         End Object
+      End Object
+      Begin Object Class=EdGraphNode_Comment Name="EdGraphNode_Comment_363"
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_800"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2318"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2317"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_36620"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2480"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2479"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2478"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2477"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2476"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_511"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2297"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2296"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_510"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2291"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2290"
+         End Object
+      End Object
+      Begin Object Class=EdGraphNode_Comment Name="EdGraphNode_Comment_361"
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_74356"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2467"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2466"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2465"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2464"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_74357"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2455"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2454"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2453"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2452"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_986"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2261"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2260"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_984"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2255"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2254"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_74359"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2443"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2442"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2441"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2440"
+         End Object
+      End Object
+      Begin Object Class=K2Node_CallFunction Name="K2Node_CallFunction_74358"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2431"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2430"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2429"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2428"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_1031"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2213"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2212"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_1030"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2207"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2206"
+         End Object
+      End Object
+      Begin Object Class=K2Node_VariableGet Name="K2Node_VariableGet_982"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2201"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2200"
+         End Object
+      End Object
+      Begin Object Class=K2Node_IfThenElse Name="K2Node_IfThenElse_306"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2233"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2232"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2231"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2230"
+         End Object
+      End Object
+      Begin Object Class=K2Node_FunctionEntry Name="K2Node_FunctionEntry_315"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_2425"
+         End Object
+      End Object
+   End Object
+   Begin Object Class=EdGraph Name="EventGraph"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="UserConstructionScript"
+      Begin Object Name="K2Node_CallFunction_6856"
+         Begin Object Name="EdGraphPin_2562"
+            PinName="ReturnValue"
+            Direction=EGPD_Output
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6854.EdGraphPin_2548'
+         End Object
+         Begin Object Name="EdGraphPin_2561"
+            PinName="InBool"
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_556.EdGraphPin_2395'
+         End Object
+         Begin Object Name="EdGraphPin_2560"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParent=Class'/Script/Engine.KismetMathLibrary',MemberName="Conv_BoolToFloat")
+         Pins(0)=EdGraphPin'EdGraphPin_2560'
+         Pins(1)=EdGraphPin'EdGraphPin_2561'
+         Pins(2)=EdGraphPin'EdGraphPin_2562'
+         NodePosX=2688
+         NodePosY=176
+         NodeGuid=B3F64FB54BF6DB0FC82E6F9EF6FC6882
+      End Object
+      Begin Object Name="K2Node_CallFunction_6854"
+         Begin Object Name="EdGraphPin_2549"
+            PinName="ReturnValue"
+            Direction=EGPD_Output
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6704.EdGraphPin_2534'
+         End Object
+         Begin Object Name="EdGraphPin_2548"
+            PinName="Z"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6856.EdGraphPin_2562'
+         End Object
+         Begin Object Name="EdGraphPin_2547"
+            PinName="Y"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+         End Object
+         Begin Object Name="EdGraphPin_2546"
+            PinName="X"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+         End Object
+         Begin Object Name="EdGraphPin_2545"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParent=Class'/Script/Engine.KismetMathLibrary',MemberName="MakeVector")
+         Pins(0)=EdGraphPin'EdGraphPin_2545'
+         Pins(1)=EdGraphPin'EdGraphPin_2546'
+         Pins(2)=EdGraphPin'EdGraphPin_2547'
+         Pins(3)=EdGraphPin'EdGraphPin_2548'
+         Pins(4)=EdGraphPin'EdGraphPin_2549'
+         NodePosX=2800
+         NodePosY=128
+         NodeGuid=22F9951243A1A00AC387AAA00A6356E4
+      End Object
+      Begin Object Name="K2Node_VariableGet_556"
+         Begin Object Name="EdGraphPin_2396"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2395"
+            PinName="Circle direction"
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6856.EdGraphPin_2561'
+         End Object
+         VariableReference=(MemberName="Circle direction",MemberGuid=03D323554C54CB732DF31EB3CC4AE245,bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2395'
+         Pins(1)=EdGraphPin'EdGraphPin_2396'
+         NodePosX=2544
+         NodePosY=192
+         NodeGuid=2A13E0894357FFF7E3F1CAA4D7F3700D
+      End Object
+      Begin Object Name="K2Node_CallFunction_6704"
+         Begin Object Name="EdGraphPin_2534"
+            PinName="Param"
+            PinType=(PinCategory="struct",PinSubCategoryObject=ScriptStruct'/Script/CoreUObject.Vector')
+            DefaultValue="0, 0, 0"
+            AutogeneratedDefaultValue="0, 0, 0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6854.EdGraphPin_2549'
+         End Object
+         Begin Object Name="EdGraphPin_2533"
+            PinName="ParameterName"
+            PinType=(PinCategory="name")
+            DefaultValue="OrbitDirection"
+            AutogeneratedDefaultValue="None"
+         End Object
+         Begin Object Name="EdGraphPin_2532"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_755.EdGraphPin_2374'
+            LinkedTo(1)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_753.EdGraphPin_2368'
+         End Object
+         Begin Object Name="EdGraphPin_2531"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+         End Object
+         Begin Object Name="EdGraphPin_2530"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_41127.EdGraphPin_2492'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.ParticleSystemComponent',MemberName="SetVectorParameter")
+         Pins(0)=EdGraphPin'EdGraphPin_2530'
+         Pins(1)=EdGraphPin'EdGraphPin_2531'
+         Pins(2)=EdGraphPin'EdGraphPin_2532'
+         Pins(3)=EdGraphPin'EdGraphPin_2533'
+         Pins(4)=EdGraphPin'EdGraphPin_2534'
+         NodePosX=3008
+         NodeGuid=18A0A31E40FA0465A712F2985046F813
+      End Object
+      Begin Object Name="K2Node_VariableGet_755"
+         Begin Object Name="EdGraphPin_2375"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2374"
+            PinName="Close effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6704.EdGraphPin_2532'
+         End Object
+         VariableReference=(MemberName="Close effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2374'
+         Pins(1)=EdGraphPin'EdGraphPin_2375'
+         NodePosX=2816
+         NodePosY=80
+         NodeGuid=8174BBBC4C09D2FAC2B7E2BF1EC39D6B
+      End Object
+      Begin Object Name="K2Node_VariableGet_753"
+         Begin Object Name="EdGraphPin_2369"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2368"
+            PinName="Distant effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6704.EdGraphPin_2532'
+         End Object
+         VariableReference=(MemberName="Distant effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2368'
+         Pins(1)=EdGraphPin'EdGraphPin_2369'
+         NodePosX=2816
+         NodePosY=48
+         NodeGuid=4D34518B41D890A09DE34FB24A9FC888
+      End Object
+      Begin Object Name="K2Node_CallFunction_54680"
+         Begin Object Name="EdGraphPin_2519"
+            PinName="ReturnValue"
+            Direction=EGPD_Output
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_41127.EdGraphPin_2494'
+         End Object
+         Begin Object Name="EdGraphPin_2518"
+            PinName="Max"
+            PinType=(PinCategory="float")
+            DefaultValue=".7"
+            AutogeneratedDefaultValue="1.0"
+         End Object
+         Begin Object Name="EdGraphPin_2517"
+            PinName="Min"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+         End Object
+         Begin Object Name="EdGraphPin_2516"
+            PinName="Value"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CommutativeAssociativeBinaryOperator_954.EdGraphPin_2506'
+         End Object
+         Begin Object Name="EdGraphPin_2515"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParent=Class'/Script/Engine.KismetMathLibrary',MemberName="FClamp")
+         Pins(0)=EdGraphPin'EdGraphPin_2515'
+         Pins(1)=EdGraphPin'EdGraphPin_2516'
+         Pins(2)=EdGraphPin'EdGraphPin_2517'
+         Pins(3)=EdGraphPin'EdGraphPin_2518'
+         Pins(4)=EdGraphPin'EdGraphPin_2519'
+         NodePosX=2192
+         NodePosY=112
+         NodeGuid=192212E34A522D8DC7861389855C519D
+      End Object
+      Begin Object Name="K2Node_CommutativeAssociativeBinaryOperator_954"
+         Begin Object Name="EdGraphPin_2506"
+            PinName="ReturnValue"
+            Direction=EGPD_Output
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_54680.EdGraphPin_2516'
+         End Object
+         Begin Object Name="EdGraphPin_2505"
+            PinName="B"
+            PinType=(PinCategory="float")
+            DefaultValue=".3"
+            AutogeneratedDefaultValue="0.0"
+         End Object
+         Begin Object Name="EdGraphPin_2504"
+            PinName="A"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_800.EdGraphPin_2317'
+         End Object
+         Begin Object Name="EdGraphPin_2503"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.KismetMathLibrary')
+            DefaultObject=Default__KismetMathLibrary
+            bHidden=True
+         End Object
+         bIsPureFunc=True
+         FunctionReference=(MemberParent=Class'/Script/Engine.KismetMathLibrary',MemberName="Multiply_FloatFloat")
+         Pins(0)=EdGraphPin'EdGraphPin_2503'
+         Pins(1)=EdGraphPin'EdGraphPin_2504'
+         Pins(2)=EdGraphPin'EdGraphPin_2505'
+         Pins(3)=EdGraphPin'EdGraphPin_2506'
+         NodePosX=2016
+         NodePosY=144
+         NodeGuid=635C728A4B7DA72F1FD0A48FC1A555B8
+      End Object
+      Begin Object Name="K2Node_CallFunction_41127"
+         Begin Object Name="EdGraphPin_2494"
+            PinName="NewVolumeMultiplier"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_54680.EdGraphPin_2519'
+         End Object
+         Begin Object Name="EdGraphPin_2493"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.AudioComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_802.EdGraphPin_2323'
+         End Object
+         Begin Object Name="EdGraphPin_2492"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_6704.EdGraphPin_2530'
+         End Object
+         Begin Object Name="EdGraphPin_2491"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_36620.EdGraphPin_2477'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.AudioComponent',MemberName="SetVolumeMultiplier")
+         Pins(0)=EdGraphPin'EdGraphPin_2491'
+         Pins(1)=EdGraphPin'EdGraphPin_2492'
+         Pins(2)=EdGraphPin'EdGraphPin_2493'
+         Pins(3)=EdGraphPin'EdGraphPin_2494'
+         NodePosX=2432
+         NodeComment="Higher spawn rate = louder bird noises"
+         bCommentBubbleVisible=True
+         NodeGuid=4FB958514C93D254AE7F0E9DF478E784
+      End Object
+      Begin Object Name="K2Node_VariableGet_802"
+         Begin Object Name="EdGraphPin_2324"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2323"
+            PinName="Audio1"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.AudioComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_41127.EdGraphPin_2493'
+         End Object
+         VariableReference=(MemberName="Audio1",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2323'
+         Pins(1)=EdGraphPin'EdGraphPin_2324'
+         NodePosX=2288
+         NodePosY=64
+         NodeGuid=E1A0EE1E41E43E5082191791074555DF
+      End Object
+      Begin Object Name="EdGraphNode_Comment_363"
+         NodePosX=1441
+         NodePosY=-106
+         NodeWidth=1904
+         NodeHeight=368
+         NodeComment="Control spawn rate of birds"
+         NodeGuid=B742809A4305028C76E2E4A5599EC309
+      End Object
+      Begin Object Name="K2Node_VariableGet_800"
+         Begin Object Name="EdGraphPin_2318"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2317"
+            PinName="Spawn rate multiply"
+            Direction=EGPD_Output
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_36620.EdGraphPin_2480'
+            LinkedTo(1)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CommutativeAssociativeBinaryOperator_954.EdGraphPin_2504'
+         End Object
+         VariableReference=(MemberName="Spawn rate multiply",MemberGuid=BAAA2FCD42254FCF91FF2F9C6DEFA306,bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2317'
+         Pins(1)=EdGraphPin'EdGraphPin_2318'
+         NodePosX=1504
+         NodePosY=144
+         NodeGuid=B9B8FC6B442E5301A7ACF498FCA2EA81
+      End Object
+      Begin Object Name="K2Node_CallFunction_36620"
+         Begin Object Name="EdGraphPin_2480"
+            PinName="Param"
+            PinType=(PinCategory="float")
+            DefaultValue="0.0"
+            AutogeneratedDefaultValue="0.0"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_800.EdGraphPin_2317'
+         End Object
+         Begin Object Name="EdGraphPin_2479"
+            PinName="ParameterName"
+            PinType=(PinCategory="name")
+            DefaultValue="SpawnRate"
+            AutogeneratedDefaultValue="None"
+         End Object
+         Begin Object Name="EdGraphPin_2478"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_510.EdGraphPin_2290'
+            LinkedTo(1)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_511.EdGraphPin_2296'
+         End Object
+         Begin Object Name="EdGraphPin_2477"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_41127.EdGraphPin_2491'
+         End Object
+         Begin Object Name="EdGraphPin_2476"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74359.EdGraphPin_2441'
+            LinkedTo(1)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74356.EdGraphPin_2465'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.ParticleSystemComponent',MemberName="SetFloatParameter")
+         Pins(0)=EdGraphPin'EdGraphPin_2476'
+         Pins(1)=EdGraphPin'EdGraphPin_2477'
+         Pins(2)=EdGraphPin'EdGraphPin_2478'
+         Pins(3)=EdGraphPin'EdGraphPin_2479'
+         Pins(4)=EdGraphPin'EdGraphPin_2480'
+         NodePosX=1728
+         NodeGuid=AEC35717465B70963E9A1996DB3443B5
+      End Object
+      Begin Object Name="K2Node_VariableGet_511"
+         Begin Object Name="EdGraphPin_2297"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2296"
+            PinName="Close effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_36620.EdGraphPin_2478'
+         End Object
+         VariableReference=(MemberName="Close effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2296'
+         Pins(1)=EdGraphPin'EdGraphPin_2297'
+         NodePosX=1520
+         NodePosY=80
+         NodeGuid=1788AAE44CCE28C81317EE8DB199C4A1
+      End Object
+      Begin Object Name="K2Node_VariableGet_510"
+         Begin Object Name="EdGraphPin_2291"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2290"
+            PinName="Distant effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_36620.EdGraphPin_2478'
+         End Object
+         VariableReference=(MemberName="Distant effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2290'
+         Pins(1)=EdGraphPin'EdGraphPin_2291'
+         NodePosX=1520
+         NodePosY=32
+         NodeGuid=22AD7641475E45E0F47F28A24FB28CC3
+      End Object
+      Begin Object Name="EdGraphNode_Comment_361"
+         NodePosX=32
+         NodePosY=-176
+         NodeWidth=1312
+         NodeHeight=496
+         NodeComment="Switch between birds circling or flying straight"
+         NodeGuid=2DF8897A4438E4919BF00FB7CFACD3A5
+      End Object
+      Begin Object Name="K2Node_CallFunction_74356"
+         Begin Object Name="EdGraphPin_2467"
+            PinName="NewTemplate"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystem')
+            DefaultObject=ParticleSystem'/Game/Assets/ParticleEffects/P_BirdsClose_Flying.P_BirdsClose_Flying'
+         End Object
+         Begin Object Name="EdGraphPin_2466"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_986.EdGraphPin_2260'
+         End Object
+         Begin Object Name="EdGraphPin_2465"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_36620.EdGraphPin_2476'
+         End Object
+         Begin Object Name="EdGraphPin_2464"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74357.EdGraphPin_2453'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.ParticleSystemComponent',MemberName="SetTemplate")
+         Pins(0)=EdGraphPin'EdGraphPin_2464'
+         Pins(1)=EdGraphPin'EdGraphPin_2465'
+         Pins(2)=EdGraphPin'EdGraphPin_2466'
+         Pins(3)=EdGraphPin'EdGraphPin_2467'
+         NodePosX=1008
+         NodePosY=112
+         NodeGuid=8FABD66C4719690277E8F3856A3A46E7
+      End Object
+      Begin Object Name="K2Node_CallFunction_74357"
+         Begin Object Name="EdGraphPin_2455"
+            PinName="NewTemplate"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystem')
+            DefaultObject=ParticleSystem'/Game/Assets/ParticleEffects/P_BirdsDistant_Flying.P_BirdsDistant_Flying'
+         End Object
+         Begin Object Name="EdGraphPin_2454"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_984.EdGraphPin_2254'
+         End Object
+         Begin Object Name="EdGraphPin_2453"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74356.EdGraphPin_2464'
+         End Object
+         Begin Object Name="EdGraphPin_2452"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_IfThenElse_306.EdGraphPin_2233'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.ParticleSystemComponent',MemberName="SetTemplate")
+         Pins(0)=EdGraphPin'EdGraphPin_2452'
+         Pins(1)=EdGraphPin'EdGraphPin_2453'
+         Pins(2)=EdGraphPin'EdGraphPin_2454'
+         Pins(3)=EdGraphPin'EdGraphPin_2455'
+         NodePosX=592
+         NodePosY=112
+         NodeGuid=BDCFEB8844960F2F310BD3B5FCFEBFAA
+      End Object
+      Begin Object Name="K2Node_VariableGet_986"
+         Begin Object Name="EdGraphPin_2261"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2260"
+            PinName="Close effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74356.EdGraphPin_2466'
+         End Object
+         VariableReference=(MemberName="Close effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2260'
+         Pins(1)=EdGraphPin'EdGraphPin_2261'
+         NodePosX=864
+         NodePosY=176
+         NodeGuid=00B8AE0241BB1269D4803190849BF2D4
+      End Object
+      Begin Object Name="K2Node_VariableGet_984"
+         Begin Object Name="EdGraphPin_2255"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2254"
+            PinName="Distant effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74357.EdGraphPin_2454'
+         End Object
+         VariableReference=(MemberName="Distant effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2254'
+         Pins(1)=EdGraphPin'EdGraphPin_2255'
+         NodePosX=448
+         NodePosY=176
+         NodeGuid=2096585A4144C4E961C6EFB55C856BDD
+      End Object
+      Begin Object Name="K2Node_CallFunction_74359"
+         Begin Object Name="EdGraphPin_2443"
+            PinName="NewTemplate"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystem')
+            DefaultObject=ParticleSystem'/Game/Assets/ParticleEffects/P_BirdsClose_Circling.P_BirdsClose_Circling'
+         End Object
+         Begin Object Name="EdGraphPin_2442"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_1031.EdGraphPin_2212'
+         End Object
+         Begin Object Name="EdGraphPin_2441"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_36620.EdGraphPin_2476'
+         End Object
+         Begin Object Name="EdGraphPin_2440"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74358.EdGraphPin_2429'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.ParticleSystemComponent',MemberName="SetTemplate")
+         Pins(0)=EdGraphPin'EdGraphPin_2440'
+         Pins(1)=EdGraphPin'EdGraphPin_2441'
+         Pins(2)=EdGraphPin'EdGraphPin_2442'
+         Pins(3)=EdGraphPin'EdGraphPin_2443'
+         NodePosX=1008
+         NodePosY=-96
+         NodeGuid=80D4824640B5F5ECD9392EBC9E37EFEF
+      End Object
+      Begin Object Name="K2Node_CallFunction_74358"
+         Begin Object Name="EdGraphPin_2431"
+            PinName="NewTemplate"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystem')
+            DefaultObject=ParticleSystem'/Game/Assets/ParticleEffects/P_BirdsDistant_Circling.P_BirdsDistant_Circling'
+         End Object
+         Begin Object Name="EdGraphPin_2430"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_1030.EdGraphPin_2206'
+         End Object
+         Begin Object Name="EdGraphPin_2429"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74359.EdGraphPin_2440'
+         End Object
+         Begin Object Name="EdGraphPin_2428"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_IfThenElse_306.EdGraphPin_2232'
+         End Object
+         FunctionReference=(MemberParent=Class'/Script/Engine.ParticleSystemComponent',MemberName="SetTemplate")
+         Pins(0)=EdGraphPin'EdGraphPin_2428'
+         Pins(1)=EdGraphPin'EdGraphPin_2429'
+         Pins(2)=EdGraphPin'EdGraphPin_2430'
+         Pins(3)=EdGraphPin'EdGraphPin_2431'
+         NodePosX=592
+         NodePosY=-96
+         NodeGuid=712E9C3244B889684B41618A05BC8A41
+      End Object
+      Begin Object Name="K2Node_VariableGet_1031"
+         Begin Object Name="EdGraphPin_2213"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2212"
+            PinName="Close effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74359.EdGraphPin_2442'
+         End Object
+         VariableReference=(MemberName="Close effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2212'
+         Pins(1)=EdGraphPin'EdGraphPin_2213'
+         NodePosX=864
+         NodePosY=-32
+         NodeGuid=942DACF0454E639CCE9EE5BB3F52A3A9
+      End Object
+      Begin Object Name="K2Node_VariableGet_1030"
+         Begin Object Name="EdGraphPin_2207"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2206"
+            PinName="Distant effect"
+            Direction=EGPD_Output
+            PinType=(PinCategory="object",PinSubCategoryObject=Class'/Script/Engine.ParticleSystemComponent')
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74358.EdGraphPin_2430'
+         End Object
+         VariableReference=(MemberName="Distant effect",bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2206'
+         Pins(1)=EdGraphPin'EdGraphPin_2207'
+         NodePosX=448
+         NodePosY=-32
+         NodeGuid=7080886442810E5A8E6E6EAFA2827921
+      End Object
+      Begin Object Name="K2Node_VariableGet_982"
+         Begin Object Name="EdGraphPin_2201"
+            PinName="self"
+            PinFriendlyName="Target"
+            PinType=(PinCategory="object",PinSubCategoryObject=BlueprintGeneratedClass'BP_Birds_C')
+            bHidden=True
+         End Object
+         Begin Object Name="EdGraphPin_2200"
+            PinName="Circling"
+            Direction=EGPD_Output
+            PinType=(PinCategory="bool")
+            DefaultValue="false"
+            AutogeneratedDefaultValue="false"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_IfThenElse_306.EdGraphPin_2231'
+         End Object
+         VariableReference=(MemberName="Circling",MemberGuid=6A3B1C4F4E9EC7087818CFBDDE856DA1,bSelfContext=True)
+         Pins(0)=EdGraphPin'EdGraphPin_2200'
+         Pins(1)=EdGraphPin'EdGraphPin_2201'
+         NodePosX=80
+         NodePosY=80
+         NodeGuid=7618CF1B4FC06CE89B57B294030532C5
+      End Object
+      Begin Object Name="K2Node_IfThenElse_306"
+         Begin Object Name="EdGraphPin_2233"
+            PinName="else"
+            PinFriendlyName="false"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74357.EdGraphPin_2452'
+         End Object
+         Begin Object Name="EdGraphPin_2232"
+            PinName="then"
+            PinFriendlyName="true"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_CallFunction_74358.EdGraphPin_2428'
+         End Object
+         Begin Object Name="EdGraphPin_2231"
+            PinName="Condition"
+            PinType=(PinCategory="bool")
+            DefaultValue="true"
+            AutogeneratedDefaultValue="true"
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_VariableGet_982.EdGraphPin_2200'
+         End Object
+         Begin Object Name="EdGraphPin_2230"
+            PinName="execute"
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_FunctionEntry_315.EdGraphPin_2425'
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_2230'
+         Pins(1)=EdGraphPin'EdGraphPin_2231'
+         Pins(2)=EdGraphPin'EdGraphPin_2232'
+         Pins(3)=EdGraphPin'EdGraphPin_2233'
+         NodePosX=256
+         NodePosY=16
+         NodeGuid=25C0CCF444C0060F733744AB851A3DA8
+      End Object
+      Begin Object Name="K2Node_FunctionEntry_315"
+         Begin Object Name="EdGraphPin_2425"
+            PinName="then"
+            Direction=EGPD_Output
+            PinType=(PinCategory="exec")
+            LinkedTo(0)=EdGraphPin'BP_Birds:UserConstructionScript.K2Node_IfThenElse_306.EdGraphPin_2230'
+         End Object
+         bEnforceConstCorrectness=False
+         SignatureClass=Class'/Script/Engine.Actor'
+         SignatureName="UserConstructionScript"
+         Pins(0)=EdGraphPin'EdGraphPin_2425'
+         NodePosX=-176
+         NodeGuid=E6BA0ADF4885A26F5AB39DB2940FBB3F
+      End Object
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      Nodes(0)=K2Node_FunctionEntry'K2Node_FunctionEntry_315'
+      Nodes(1)=K2Node_IfThenElse'K2Node_IfThenElse_306'
+      Nodes(2)=K2Node_VariableGet'K2Node_VariableGet_982'
+      Nodes(3)=K2Node_VariableGet'K2Node_VariableGet_1030'
+      Nodes(4)=K2Node_VariableGet'K2Node_VariableGet_1031'
+      Nodes(5)=K2Node_CallFunction'K2Node_CallFunction_74358'
+      Nodes(6)=K2Node_CallFunction'K2Node_CallFunction_74359'
+      Nodes(7)=K2Node_VariableGet'K2Node_VariableGet_984'
+      Nodes(8)=K2Node_VariableGet'K2Node_VariableGet_986'
+      Nodes(9)=K2Node_CallFunction'K2Node_CallFunction_74357'
+      Nodes(10)=K2Node_CallFunction'K2Node_CallFunction_74356'
+      Nodes(11)=EdGraphNode_Comment'EdGraphNode_Comment_361'
+      Nodes(12)=K2Node_VariableGet'K2Node_VariableGet_510'
+      Nodes(13)=K2Node_VariableGet'K2Node_VariableGet_511'
+      Nodes(14)=K2Node_CallFunction'K2Node_CallFunction_36620'
+      Nodes(15)=K2Node_VariableGet'K2Node_VariableGet_800'
+      Nodes(16)=EdGraphNode_Comment'EdGraphNode_Comment_363'
+      Nodes(17)=K2Node_VariableGet'K2Node_VariableGet_802'
+      Nodes(18)=K2Node_CallFunction'K2Node_CallFunction_41127'
+      Nodes(19)=K2Node_CommutativeAssociativeBinaryOperator'K2Node_CommutativeAssociativeBinaryOperator_954'
+      Nodes(20)=K2Node_CallFunction'K2Node_CallFunction_54680'
+      Nodes(21)=K2Node_VariableGet'K2Node_VariableGet_753'
+      Nodes(22)=K2Node_VariableGet'K2Node_VariableGet_755'
+      Nodes(23)=K2Node_CallFunction'K2Node_CallFunction_6704'
+      Nodes(24)=K2Node_VariableGet'K2Node_VariableGet_556'
+      Nodes(25)=K2Node_CallFunction'K2Node_CallFunction_6854'
+      Nodes(26)=K2Node_CallFunction'K2Node_CallFunction_6856'
+      bAllowDeletion=False
+      GraphGuid=B4EC008F40D828FFD5C1FC80E26B033F
+   End Object
+   Begin Object Name="EventGraph"
+      Schema=Class'/Script/BlueprintGraph.EdGraphSchema_K2'
+      bAllowDeletion=False
+      GraphGuid=2456D49847973D086B94778E47AEE79C
+   End Object
+   ParentClass=Class'/Script/Engine.Actor'
+   BlueprintDescription="Blueprint containing particle effects that spawn flocks of birds."
+   SearchGuid=AFDE28794AF6442CC2040BBAE9932FCE
+   SimpleConstructionScript=SimpleConstructionScript'BP_Birds_C:SimpleConstructionScript_0'
+   UbergraphPages(0)=EdGraph'EventGraph'
+   FunctionGraphs(0)=EdGraph'UserConstructionScript'
+   NewVariables(0)=(VarName="Circling",VarGuid=6A3B1C4F4E9EC7087818CFBDDE856DA1,VarType=(PinCategory="bool"),FriendlyName="Circling",Category="Default",PropertyFlags=5,MetaDataArray=((DataKey="Tooltip",DataValue="Whether birds should fly in a circle or straight")))
+   NewVariables(1)=(VarName="Spawn rate multiply",VarGuid=BAAA2FCD42254FCF91FF2F9C6DEFA306,VarType=(PinCategory="float"),FriendlyName="Spawn Rate Multiply",Category="Default",PropertyFlags=5,MetaDataArray=((DataKey="Tooltip",DataValue="Multiplies the spawn rate of bird particle effects")))
+   NewVariables(2)=(VarName="Circle direction",VarGuid=03D323554C54CB732DF31EB3CC4AE245,VarType=(PinCategory="bool"),FriendlyName="Circle Direction",Category="Default",PropertyFlags=5,MetaDataArray=((DataKey="Tooltip",DataValue="If circling, determines direction of circle")))
+   CategorySorting(0)="Default"
+   BlueprintSystemVersion=2
+   LastEditedDocuments(0)=(EditedObject=EdGraph'EventGraph',SavedViewOffset=(X=130.303711,Y=-55.999981),SavedZoomAmount=0.750000)
+   LastEditedDocuments(1)=(EditedObject=EdGraph'UserConstructionScript',SavedViewOffset=(X=-502.730408,Y=-619.880066),SavedZoomAmount=0.675000)
+   ThumbnailInfo=SceneThumbnailInfo'SceneThumbnailInfo_0'
+   GeneratedClass=BlueprintGeneratedClass'BP_Birds_C'
+   bLegacyNeedToPurgeSkelRefs=False
+   bLegacyGeneratedClassIsAuthoritative=True
+   BlueprintGuid=4ECDDEDE8D1C5FA4D7C36F75577C3C40
+End Object

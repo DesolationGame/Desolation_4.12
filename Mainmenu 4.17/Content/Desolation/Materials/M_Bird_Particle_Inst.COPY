@@ -1,0 +1,17 @@
+Begin Object Class=MaterialInstanceConstant Name="M_Bird_Particle_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Assets/Materials/M_Bird_Inst.M_Bird_Inst'
+   bHasStaticPermutationResource=True
+   ParentLightingGuid=C36E607D48B9FDDD34551D8B1AEE3831
+   ScalarParameterValues(0)=(ParameterName="Rotate Amount",ParameterValue=0.150000,ExpressionGUID=11876A7B44419D8C151486A212FB59D9)
+   ScalarParameterValues(1)=(ParameterName="Speed",ParameterValue=2.500000,ExpressionGUID=35A762C946D20605EEFC89ACC71FE0D2)
+   ScalarParameterValues(2)=(ParameterName="RefractionDepthBias")
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=EB559D9F4D308DF478DAF2A6D6DA13BB
+   ReferencedTextureGuids(1)=32FBD9E847C2168B1239AF8014500FA3
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=F528C72E4BF8F2641B6A4586EADEE01B
+End Object

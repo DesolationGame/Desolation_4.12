@@ -1,0 +1,31 @@
+Begin Object Class=MaterialInstanceConstant Name="M_Water_Inst_Ocean"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Assets/Materials/M_Water_Inst.M_Water_Inst'
+   bHasStaticPermutationResource=True
+   ParentLightingGuid=C5C4275A4A92620ECF0DB1A824DDB592
+   ScalarParameterValues(0)=(ParameterName="MiplevelBase",ParameterValue=2.487857,ExpressionGUID=3032DAA8496048E2F9068F9A33A73A9F)
+   ScalarParameterValues(1)=(ParameterName="MipMaskSpeed",ParameterValue=-0.015142,ExpressionGUID=87D5D8E3452444DD56394083C57855CF)
+   ScalarParameterValues(2)=(ParameterName="ScaleMipMask",ParameterValue=1.158560,ExpressionGUID=7F36EBE043E863938454E8967B6B52FC)
+   ScalarParameterValues(3)=(ParameterName="MipLevelHigh",ParameterValue=-8.313502,ExpressionGUID=117881E4401E53A0C52FD798CEA06EFD)
+   ScalarParameterValues(4)=(ParameterName="MipLevelLOW",ParameterValue=4.294131,ExpressionGUID=8BE5057544FA5590E2BE98A0A50AF38B)
+   ScalarParameterValues(5)=(ParameterName="NormalIntensity",ParameterValue=0.123894,ExpressionGUID=DDCE65FF484F95B5CCFEF6A58B4BF155)
+   ScalarParameterValues(6)=(ParameterName="Scale1",ParameterValue=8.831179,ExpressionGUID=B86F23174C256E5D80DADF92EDEB20EB)
+   ScalarParameterValues(7)=(ParameterName="Scale2",ParameterValue=11.758713,ExpressionGUID=F8CECF554AD53258CB48EB84F6E0D785)
+   ScalarParameterValues(8)=(ParameterName="Speed",ParameterValue=-0.104767,ExpressionGUID=AD1CE99C4904CA22561DF9AE4472A6D6)
+   ScalarParameterValues(9)=(ParameterName="Speed2",ParameterValue=-0.059993,ExpressionGUID=B7AFA81A4D3B383EDB82FF8E26DF11D3)
+   ScalarParameterValues(10)=(ParameterName="Distance",ParameterValue=45271.718750,ExpressionGUID=A173ECEF4D5A768949F6BD8AA4B679A0)
+   ScalarParameterValues(11)=(ParameterName="FadeFalloff",ParameterValue=0.030706,ExpressionGUID=F9E0943045F1829BAB7AF885CDB3B08D)
+   ScalarParameterValues(12)=(ParameterName="FresnelFalloff",ParameterValue=263.393860,ExpressionGUID=9B7B11D645CFF48B000EABAB014EE1E2)
+   ScalarParameterValues(13)=(ParameterName="NormalDistance",ParameterValue=1991.414917,ExpressionGUID=D65C9F21456C0C0DF26B75873AC62808)
+   ScalarParameterValues(14)=(ParameterName="NormalFadeFalloff",ParameterValue=-1.313523,ExpressionGUID=DCBB8C7C47F07D818BECF6A8B5695F39)
+   ScalarParameterValues(15)=(ParameterName="Specular",ExpressionGUID=C819D4954F2D5257159AED83C2D131C7)
+   ScalarParameterValues(16)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Color",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=BBE5A5EA4DA03D7706A6B099CB11B99A)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=1E5ABE4E4BC6C4F76F732C8C016463AA
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=AC672E334598D75A39D89A8BF85F0BC6
+End Object

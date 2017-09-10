@@ -1,0 +1,31 @@
+Begin Object Class=MaterialInstanceConstant Name="M_Bird_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+      PreviewMesh=/Game/Assets/Meshes/SM_Zen_Bird_MP.SM_Zen_Bird_MP
+   End Object
+   Parent=Material'/Game/Assets/Materials/M_Bird.M_Bird'
+   bHasStaticPermutationResource=True
+   ParentLightingGuid=AF60FF8A49D91C792D574A9EEDD7E2AA
+   ScalarParameterValues(0)=(ParameterName="Forward rotate Amount",ParameterValue=0.100000,ExpressionGUID=29DFA68342EDB544ADE0078E05BF23CB)
+   ScalarParameterValues(1)=(ParameterName="Forward Rotate Delay",ParameterValue=1.000000,ExpressionGUID=57B09977409B5511D542E0AEBBC9C56E)
+   ScalarParameterValues(2)=(ParameterName="Macro Time Bias",ParameterValue=1.650000,ExpressionGUID=37FC6A334E2859FF562A5881FDA05D50)
+   ScalarParameterValues(3)=(ParameterName="Macro Wave Frequency",ParameterValue=-1200.000000,ExpressionGUID=3D6BE9F241526958B2B8068B23B249E0)
+   ScalarParameterValues(4)=(ParameterName="Macro Wave scale",ParameterValue=3.000000,ExpressionGUID=EDD0B9E54B3300A4C4FD2B9EA68B71B3)
+   ScalarParameterValues(5)=(ParameterName="Rotate Amount",ParameterValue=0.100000,ExpressionGUID=11876A7B44419D8C151486A212FB59D9)
+   ScalarParameterValues(6)=(ParameterName="Rotation Angle Bias",ParameterValue=0.010000,ExpressionGUID=6B80D03444DD2795D9AF1B9F8059018F)
+   ScalarParameterValues(7)=(ParameterName="RoughnessHigh",ExpressionGUID=D3B4F9A546BEC59100C5EA912C4D0E6A)
+   ScalarParameterValues(8)=(ParameterName="RoughnessLOW",ParameterValue=1.000000,ExpressionGUID=EAC1926449E250FE9DE24A9022E31484)
+   ScalarParameterValues(9)=(ParameterName="Speed",ParameterValue=2.000000,ExpressionGUID=35A762C946D20605EEFC89ACC71FE0D2)
+   ScalarParameterValues(10)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Color",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=DECE90CD447927FE66320D96E33204CF)
+   VectorParameterValues(1)=(ParameterName="Color1",ParameterValue=(R=0.597826,G=0.785144,B=0.825000,A=1.000000),ExpressionGUID=72DF8A2440D596DB4444189380F72269)
+   VectorParameterValues(2)=(ParameterName="Color2",ParameterValue=(R=0.365800,G=0.541710,B=0.590000,A=1.000000),ExpressionGUID=D60E484F4D4FF6E94CF2DA95AA3A7B17)
+   VectorParameterValues(3)=(ParameterName="LightVector",ParameterValue=(R=0.582000,G=0.728000,B=0.361000,A=1.000000),ExpressionGUID=72AD22C4421A97EC407921B2F47049A5)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300,ShadingModel=MSM_Unlit)
+   ReferencedTextureGuids(0)=EB559D9F4D308DF478DAF2A6D6DA13BB
+   ReferencedTextureGuids(1)=32FBD9E847C2168B1239AF8014500FA3
+   PreviewMesh=/Game/Assets/Meshes/SM_Zen_Bird_MP.SM_Zen_Bird_MP
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=C36E607D48B9FDDD34551D8B1AEE3831
+End Object

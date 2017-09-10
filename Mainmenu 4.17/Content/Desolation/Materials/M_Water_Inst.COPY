@@ -1,0 +1,23 @@
+Begin Object Class=MaterialInstanceConstant Name="M_Water_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Parent=Material'/Game/Assets/Materials/M_Water.M_Water'
+   ParentLightingGuid=A1191BF9488B9FAC2D8AA7A28D653396
+   ScalarParameterValues(0)=(ParameterName="MiplevelBase",ParameterValue=0.247000,ExpressionGUID=3032DAA8496048E2F9068F9A33A73A9F)
+   ScalarParameterValues(1)=(ParameterName="MipMaskSpeed",ParameterValue=0.135137,ExpressionGUID=87D5D8E3452444DD56394083C57855CF)
+   ScalarParameterValues(2)=(ParameterName="ScaleMipMask",ParameterValue=0.442731,ExpressionGUID=7F36EBE043E863938454E8967B6B52FC)
+   ScalarParameterValues(3)=(ParameterName="MipLevelHigh",ParameterValue=-23.900866,ExpressionGUID=117881E4401E53A0C52FD798CEA06EFD)
+   ScalarParameterValues(4)=(ParameterName="MipLevelLOW",ParameterValue=7.453702,ExpressionGUID=8BE5057544FA5590E2BE98A0A50AF38B)
+   ScalarParameterValues(5)=(ParameterName="NormalIntensity",ParameterValue=0.396805,ExpressionGUID=DDCE65FF484F95B5CCFEF6A58B4BF155)
+   ScalarParameterValues(6)=(ParameterName="Scale1",ParameterValue=0.753895,ExpressionGUID=B86F23174C256E5D80DADF92EDEB20EB)
+   ScalarParameterValues(7)=(ParameterName="Scale2",ParameterValue=1.405891,ExpressionGUID=F8CECF554AD53258CB48EB84F6E0D785)
+   ScalarParameterValues(8)=(ParameterName="Speed",ParameterValue=0.378555,ExpressionGUID=AD1CE99C4904CA22561DF9AE4472A6D6)
+   ScalarParameterValues(9)=(ParameterName="Speed2",ParameterValue=0.357002,ExpressionGUID=B7AFA81A4D3B383EDB82FF8E26DF11D3)
+   ScalarParameterValues(10)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="Color",ParameterValue=(R=0.441968,G=0.662820,B=1.000000,A=1.000000),ExpressionGUID=BBE5A5EA4DA03D7706A6B099CB11B99A)
+   ReferencedTextureGuids(0)=1E5ABE4E4BC6C4F76F732C8C016463AA
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_1'
+   LightingGuid=C5C4275A4A92620ECF0DB1A824DDB592
+End Object
