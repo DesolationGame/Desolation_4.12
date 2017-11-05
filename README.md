@@ -9,4 +9,4 @@ The game will also include a hidden plot line which is discovered by finding loc
 <br><i>Will you evolve into the next sentient life of Aros? Or will you and the Naih species meet desolation....</i>
 
 | <url=http://www.sitebuilder.com/website-templates/site/42496550/desktop/J8NpUG1CYGBhHleX14twmfihutu9KX>Game Website</url> |
-<url=https://docs.google.com/document/d/1-IBp-uFN_9hHO-vMKWsiuv-sx8lEl9VbH_4avNXdy2k/edit?usp=sharing>GoogleDocs: Game Blueprint</url> |
+<url=https://docs.google.com/document/d/112OK-uueo6NQdXdUincivaroWEN_voIcDn54AoU4JdE/edit?usp=sharing>GoogleDocs: Game Blueprint</url> |
